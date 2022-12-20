@@ -22,3 +22,5 @@ D:\Project\Lampshade\ShopManagement.Configuration\obj\Debug\netcoreapp3.1\ShopMa
 D:\Project\Lampshade\ShopManagement.Configuration\obj\Debug\netcoreapp3.1\ShopManagement.Configuration.dll
 D:\Project\Lampshade\ShopManagement.Configuration\obj\Debug\netcoreapp3.1\ShopManagement.Configuration.pdb
 D:\Project\Lampshade\ShopManagement.Configuration\obj\Debug\netcoreapp3.1\ShopManagement.Configuration.genruntimeconfig.cache
+D:\Project\Lampshade\ShopManagement.Configuration\bin\Debug\netcoreapp3.1\01_LampshadeQuery.dll
+D:\Project\Lampshade\ShopManagement.Configuration\bin\Debug\netcoreapp3.1\01_LampshadeQuery.pdb

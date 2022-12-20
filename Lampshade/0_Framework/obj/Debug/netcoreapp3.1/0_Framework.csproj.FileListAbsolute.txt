@@ -7,4 +7,3 @@ D:\Project\Lampshade\0_Framework\obj\Debug\netcoreapp3.1\0_Framework.AssemblyInf
 D:\Project\Lampshade\0_Framework\obj\Debug\netcoreapp3.1\0_Framework.csproj.CoreCompileInputs.cache
 D:\Project\Lampshade\0_Framework\obj\Debug\netcoreapp3.1\0_Framework.dll
 D:\Project\Lampshade\0_Framework\obj\Debug\netcoreapp3.1\0_Framework.pdb
-D:\Project\Lampshade\0_Framework\obj\Debug\netcoreapp3.1\0_Framework.csprojAssemblyReference.cache

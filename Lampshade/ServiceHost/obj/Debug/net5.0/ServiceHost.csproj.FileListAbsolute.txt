@@ -174,3 +174,7 @@ D:\Project\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Areas\Administration\Pag
 D:\Project\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Shop\Slides\Create.cshtml.g.cs
 D:\Project\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Shop\Slides\Edit.cshtml.g.cs
 D:\Project\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Shop\Slides\Index.cshtml.g.cs
+D:\Project\Lampshade\ServiceHost\bin\Debug\net5.0\01_LampshadeQuery.dll
+D:\Project\Lampshade\ServiceHost\bin\Debug\net5.0\01_LampshadeQuery.pdb
+D:\Project\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Pages\Shared\Components\Slide\Default.cshtml.g.cs
+D:\Project\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Pages\Shared\Components\ProductCategory\Default.cshtml.g.cs
