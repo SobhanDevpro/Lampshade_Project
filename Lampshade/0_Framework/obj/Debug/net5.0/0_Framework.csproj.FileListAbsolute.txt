@@ -2,7 +2,6 @@ D:\Project\Lampshade\0_Framework\bin\Debug\net5.0\0_Framework.deps.json
 D:\Project\Lampshade\0_Framework\bin\Debug\net5.0\0_Framework.dll
 D:\Project\Lampshade\0_Framework\bin\Debug\net5.0\ref\0_Framework.dll
 D:\Project\Lampshade\0_Framework\bin\Debug\net5.0\0_Framework.pdb
-D:\Project\Lampshade\0_Framework\obj\Debug\net5.0\0_Framework.csprojAssemblyReference.cache
 D:\Project\Lampshade\0_Framework\obj\Debug\net5.0\0_Framework.GeneratedMSBuildEditorConfig.editorconfig
 D:\Project\Lampshade\0_Framework\obj\Debug\net5.0\0_Framework.AssemblyInfoInputs.cache
 D:\Project\Lampshade\0_Framework\obj\Debug\net5.0\0_Framework.AssemblyInfo.cs
