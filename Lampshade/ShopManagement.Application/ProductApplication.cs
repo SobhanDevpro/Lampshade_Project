@@ -11,10 +11,14 @@ namespace ShopManagement.Application
     {
        
         private readonly IProductRepository _productRepository;
+        private readonly IFileUploader _fileUploader;
+        private readonly IProductCategoryRepository _categoryRepository;
 
-        public ProductApplication(IProductRepository productRepository)
+        public ProductApplication(IProductRepository productRepository, IFileUploader fileUploader, IProductCategoryRepository categoryRepository)
         {
             _productRepository = productRepository;
+            _fileUploader = fileUploader;
+            _categoryRepository = categoryRepository;
         }
 
         public OperationResult Create(CreateProduct command)
@@ -24,8 +28,11 @@ namespace ShopManagement.Application
                 return operation.Failed(ApplicationMessages.DuplicatedRecord);
 
             var slug = command.Slug.Slugify();
+            var categorySlug = _categoryRepository.GetSlugById(command.CategoryId);
+            var filePath = $"{categorySlug}//{slug}";
+            var picturePath = _fileUploader.Upload(command.Picture, filePath);  
             var product = new Product(command.Name, command.Code,
-                command.ShortDescription, command.Description,command.Picture,
+                command.ShortDescription, command.Description, picturePath,
                 command.PictureAlt, command.PictureTitle, command.CategoryId, slug,
                 command.Keywords, command.MetaDescription);
             _productRepository.Create(product);
@@ -36,7 +43,7 @@ namespace ShopManagement.Application
         public OperationResult Edit(EditProduct command)
         {
             var operation = new OperationResult();
-            var product = _productRepository.Get(command.Id);
+            var product = _productRepository.GetProductWithCategory(command.Id);
             if (product == null)
                 return operation.Failed(ApplicationMessages.RecordNotFound);
 
@@ -44,8 +51,11 @@ namespace ShopManagement.Application
                 return operation.Failed(ApplicationMessages.DuplicatedRecord);
 
             var slug = command.Slug.Slugify();
+
+            var filePath = $"{product.Category.Slug}//{slug}";
+            var picturePath = _fileUploader.Upload(command.Picture, filePath);
             product.Edit(command.Name, command.Code, 
-                command.ShortDescription, command.Description, command.Picture,
+                command.ShortDescription, command.Description, picturePath,
                 command.PictureAlt, command.PictureTitle, command.CategoryId, slug,
                 command.Keywords, command.MetaDescription);
 

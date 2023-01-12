@@ -8,6 +8,7 @@ namespace ShopManagement.Domain.ProductCategoryAgg
     {
         EditProductCategory GetDetails(long id);
         List<ProductCategoryViewModel> Search(ProductCategorySearchModel searchModel);
+        string GetSlugById(long id);
         List<ProductCategoryViewModel> GetProductCategories();
     }
 }

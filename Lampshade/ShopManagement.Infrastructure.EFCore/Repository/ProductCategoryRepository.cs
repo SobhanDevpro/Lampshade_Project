@@ -13,7 +13,7 @@ namespace ShopManagement.Infrastructure.EFCore.Repository
     {
         private readonly ShopContext _context;
 
-        public ProductCategoryRepository(ShopContext context):base(context)
+        public ProductCategoryRepository(ShopContext context) : base(context)
         {
             _context = context;
         }
@@ -27,7 +27,7 @@ namespace ShopManagement.Infrastructure.EFCore.Repository
                 Keywords = x.Keywords,
                 MetaDescription = x.MetaDescription,
                 Name = x.Name,
-                Picture = x.Picture,
+                //Picture = x.Picture,
                 Slug = x.Slug,
                 PictureAlt = x.PictureAlt,
                 PictureTitle = x.PictureTitle
@@ -53,11 +53,16 @@ namespace ShopManagement.Infrastructure.EFCore.Repository
 
         public List<ProductCategoryViewModel> GetProductCategories()
         {
-            return _context.ProductCategories.Select(x=> new ProductCategoryViewModel
+            return _context.ProductCategories.Select(x => new ProductCategoryViewModel
             {
                 Id = x.Id,
                 Name = x.Name
             }).ToList();
+        }
+
+        public string GetSlugById(long id)
+        {
+            return _context.ProductCategories.Select(x => new { x.Slug, x.Id }).FirstOrDefault(x => x.Id == id).Slug;
         }
     }
 }
