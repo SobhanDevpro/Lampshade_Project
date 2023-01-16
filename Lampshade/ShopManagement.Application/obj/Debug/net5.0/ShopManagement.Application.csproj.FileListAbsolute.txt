@@ -8,7 +8,6 @@ D:\Project\Lampshade\ShopManagement.Application\bin\Debug\net5.0\ShopManagement.
 D:\Project\Lampshade\ShopManagement.Application\bin\Debug\net5.0\ShopManagement.Application.Contracts.pdb
 D:\Project\Lampshade\ShopManagement.Application\bin\Debug\net5.0\ShopManagement.Domain.pdb
 D:\Project\Lampshade\ShopManagement.Application\bin\Debug\net5.0\0_Framework.pdb
-D:\Project\Lampshade\ShopManagement.Application\obj\Debug\net5.0\ShopManagement.Application.csprojAssemblyReference.cache
 D:\Project\Lampshade\ShopManagement.Application\obj\Debug\net5.0\ShopManagement.Application.GeneratedMSBuildEditorConfig.editorconfig
 D:\Project\Lampshade\ShopManagement.Application\obj\Debug\net5.0\ShopManagement.Application.AssemblyInfoInputs.cache
 D:\Project\Lampshade\ShopManagement.Application\obj\Debug\net5.0\ShopManagement.Application.AssemblyInfo.cs
@@ -17,3 +16,4 @@ D:\Project\Lampshade\ShopManagement.Application\obj\Debug\net5.0\ShopManagement.
 D:\Project\Lampshade\ShopManagement.Application\obj\Debug\net5.0\ShopManagement.Application.dll
 D:\Project\Lampshade\ShopManagement.Application\obj\Debug\net5.0\ref\ShopManagement.Application.dll
 D:\Project\Lampshade\ShopManagement.Application\obj\Debug\net5.0\ShopManagement.Application.pdb
+D:\Project\Lampshade\ShopManagement.Application\obj\Debug\net5.0\ShopManagement.Application.csprojAssemblyReference.cache
