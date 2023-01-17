@@ -1,12 +1,10 @@
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
 using _01_LampshadeQuery.Contracts.Article;
 using _01_LampshadeQuery.Contracts.ArticleCategory;
+using CommentManagement.Application.Contracts.Comment;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
-using ShopManagement.Application.Contracts.Comment;
+using System.Collections.Generic;
+using CommentManagement.Infrastructure.EFCore;
 
 namespace ServiceHost.Pages
 {
@@ -17,10 +15,12 @@ namespace ServiceHost.Pages
         public List<ArticleCategoryQueryModel> ArticleCategories;
         private readonly IArticleQuery _articleQuery;
         private readonly IArticleCategoryQuery _articleCategoryQuery;
+        private readonly ICommentApplication _commentApplication;
 
-        public ArticleModel(IArticleQuery articleQuery, IArticleCategoryQuery articleCategoryQuery)
+        public ArticleModel(IArticleQuery articleQuery, IArticleCategoryQuery articleCategoryQuery, ICommentApplication commentApplication)
         {
             _articleQuery = articleQuery;
+            _commentApplication = commentApplication;
             _articleCategoryQuery = articleCategoryQuery;
         }
 
@@ -31,11 +31,11 @@ namespace ServiceHost.Pages
             ArticleCategories = _articleCategoryQuery.GetArticleCategories();
         }
 
-        //public IActionResult OnPost(AddComment command, string articleSlug)
-        //{
-        //    command.Type = CommentType.Article;
-        //    var result = _commentApplication.Add(command);
-        //    return RedirectToPage("/Article", new { Id = articleSlug });
-        //}
+        public IActionResult OnPost(AddComment command, string articleSlug)
+        {
+            command.Type = CommentType.Article;
+            var result = _commentApplication.Add(command);
+            return RedirectToPage("/Article", new { Id = articleSlug });
+        }
     }
 }
