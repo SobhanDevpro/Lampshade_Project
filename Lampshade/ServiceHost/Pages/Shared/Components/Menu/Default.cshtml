@@ -1,5 +1,6 @@
-﻿@model _01_LampshadeQuery.MenuModel
-
+﻿@using _0_Framework.Application
+@model _01_LampshadeQuery.MenuModel
+@inject IAuthHelper AuthHelper;
 <div class="header-area header-sticky">
     <div class="container">
         <div class="row">
@@ -18,7 +19,7 @@
                                 </li>
 
                                 <li class="menu-item-has-children">
-                                    <a >محصولات</a>
+                                    <a>محصولات</a>
                                     <ul class="sub-menu">
                                         @foreach (var category in Model.ProductCategories)
                                         {
@@ -30,7 +31,7 @@
                                 </li>
 
                                 <li class="menu-item-has-children">
-                                    <a >مقالات</a>
+                                    <a>مقالات</a>
                                     <ul class="sub-menu">
                                         @foreach (var category in Model.ArticleCategories)
                                         {
@@ -44,6 +45,18 @@
                                 <li>
                                     <a href="contact.html">تماس با ما</a>
                                 </li>
+                                @if (AuthHelper.IsAuthenticated())
+                                {
+                                    <li>
+                                        <a asp-page="/Account" asp-page-handler="Logout">خروج</a>
+                                    </li>
+                                }
+                                else
+                                {
+                                    <li>
+                                        <a asp-page="/Account">ورود / ثبت نام</a>
+                                    </li>
+                                }
                             </ul>
                         </nav>
                     </div>

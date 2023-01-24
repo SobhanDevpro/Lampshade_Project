@@ -1,4 +1,3 @@
-D:\Project\Lampshade\BlogManagement.Application\obj\Debug\net5.0\BlogManagement.Application.csprojAssemblyReference.cache
 D:\Project\Lampshade\BlogManagement.Application\obj\Debug\net5.0\BlogManagement.Application.GeneratedMSBuildEditorConfig.editorconfig
 D:\Project\Lampshade\BlogManagement.Application\obj\Debug\net5.0\BlogManagement.Application.AssemblyInfoInputs.cache
 D:\Project\Lampshade\BlogManagement.Application\obj\Debug\net5.0\BlogManagement.Application.AssemblyInfo.cs

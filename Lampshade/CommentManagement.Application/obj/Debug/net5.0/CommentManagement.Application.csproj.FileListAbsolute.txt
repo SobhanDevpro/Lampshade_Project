@@ -8,7 +8,6 @@ D:\Project\Lampshade\CommentManagement.Application\bin\Debug\net5.0\CommentManag
 D:\Project\Lampshade\CommentManagement.Application\bin\Debug\net5.0\0_Framework.pdb
 D:\Project\Lampshade\CommentManagement.Application\bin\Debug\net5.0\CommentManagement.Application.Contracts.pdb
 D:\Project\Lampshade\CommentManagement.Application\bin\Debug\net5.0\CommentManagement.Domain.pdb
-D:\Project\Lampshade\CommentManagement.Application\obj\Debug\net5.0\CommentManagement.Application.csprojAssemblyReference.cache
 D:\Project\Lampshade\CommentManagement.Application\obj\Debug\net5.0\CommentManagement.Application.GeneratedMSBuildEditorConfig.editorconfig
 D:\Project\Lampshade\CommentManagement.Application\obj\Debug\net5.0\CommentManagement.Application.AssemblyInfoInputs.cache
 D:\Project\Lampshade\CommentManagement.Application\obj\Debug\net5.0\CommentManagement.Application.AssemblyInfo.cs
