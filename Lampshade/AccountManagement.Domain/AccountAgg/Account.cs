@@ -22,9 +22,9 @@ namespace AccountManagement.Domain.AccountAgg
             Mobile = mobile;
             RoleId = roleId;
 
-            //if (roleId == 0)
-            //    RoleId = 2;
-            
+            if (roleId == 0)
+                RoleId = 2;
+
             ProfilePhoto = profilePhoto;
         }
 

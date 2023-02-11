@@ -22,7 +22,9 @@ using ServiceHost;
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorCompiledItemMetadataAttribute("RouteTemplate", "{id}")]
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"0983becd086d7ca155078ac461face270f68d97c", @"/Pages/Article.cshtml")]
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"d027006424b9e12b1709732f146fce9f1d78e6a1", @"/Pages/_ViewImports.cshtml")]
+    #nullable restore
     public class Pages_Article : global::Microsoft.AspNetCore.Mvc.RazorPages.Page
+    #nullable disable
     {
         private static readonly global::Microsoft.AspNetCore.Razor.TagHelpers.TagHelperAttribute __tagHelperAttribute_0 = new global::Microsoft.AspNetCore.Razor.TagHelpers.TagHelperAttribute("asp-page", "/Index", global::Microsoft.AspNetCore.Razor.TagHelpers.HtmlAttributeValueStyle.DoubleQuotes);
         private static readonly global::Microsoft.AspNetCore.Razor.TagHelpers.TagHelperAttribute __tagHelperAttribute_1 = new global::Microsoft.AspNetCore.Razor.TagHelpers.TagHelperAttribute("asp-page", "/ArticleCategory", global::Microsoft.AspNetCore.Razor.TagHelpers.HtmlAttributeValueStyle.DoubleQuotes);
@@ -90,7 +92,7 @@ using ServiceHost;
 #line hidden
 #nullable disable
             WriteLiteral("</h1>\r\n                        <ul class=\"breadcrumb-content__page-map\">\r\n                            <li>\r\n                                ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "0983becd086d7ca155078ac461face270f68d97c8339", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "0983becd086d7ca155078ac461face270f68d97c8385", async() => {
                 WriteLiteral("صفحه اصلی");
             }
             );
@@ -106,7 +108,7 @@ using ServiceHost;
             Write(__tagHelperExecutionContext.Output);
             __tagHelperExecutionContext = __tagHelperScopeManager.End();
             WriteLiteral("\r\n                            </li>\r\n                            <li>\r\n                                ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "0983becd086d7ca155078ac461face270f68d97c9600", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "0983becd086d7ca155078ac461face270f68d97c9646", async() => {
 #nullable restore
 #line 22 "D:\Project\Lampshade\ServiceHost\Pages\Article.cshtml"
                                                                                                      Write(Model.Article.CategoryName);
@@ -198,7 +200,7 @@ using ServiceHost;
                                         <div class=""single-blog-post-media"">
                                             <div class=""image"">
                                                 ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "0983becd086d7ca155078ac461face270f68d97c14193", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "0983becd086d7ca155078ac461face270f68d97c14239", async() => {
             }
             );
             __Microsoft_AspNetCore_Mvc_Razor_TagHelpers_UrlResolutionTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.Razor.TagHelpers.UrlResolutionTagHelper>();
@@ -257,7 +259,7 @@ AddHtmlAttributeValue("", 2574, Model.Article.Title, 2574, 20, false);
 #line hidden
 #nullable disable
             WriteLiteral("                                                    <li>\r\n                                                        ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "0983becd086d7ca155078ac461face270f68d97c17791", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "0983becd086d7ca155078ac461face270f68d97c17837", async() => {
 #nullable restore
 #line 69 "D:\Project\Lampshade\ServiceHost\Pages\Article.cshtml"
                                                                                                 Write(tag);
@@ -374,7 +376,7 @@ WriteAttributeValue("", 5996, comment.Id, 5996, 11, false);
             WriteAttributeValue("", 6007, ")", 6007, 1, true);
             EndWriteAttribute();
             WriteLiteral(">پاسخ</a>\r\n                                                    </span>\r\n                                                    <div class=\"image\">\r\n                                                        ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "0983becd086d7ca155078ac461face270f68d97c24478", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "0983becd086d7ca155078ac461face270f68d97c24524", async() => {
             }
             );
             __Microsoft_AspNetCore_Mvc_Razor_TagHelpers_UrlResolutionTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.Razor.TagHelpers.UrlResolutionTagHelper>();
@@ -471,7 +473,7 @@ WriteAttributeValue("", 7141, comment.ParentId, 7141, 17, false);
                                             </p>
                                             <div class=""comment-form"" id=""postComment"">
                                                 ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "0983becd086d7ca155078ac461face270f68d97c29580", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "0983becd086d7ca155078ac461face270f68d97c29626", async() => {
                 WriteLiteral(@"
                                                     <div class=""row"">
                                                         <div class=""col-lg-12"">
@@ -568,7 +570,7 @@ WriteAttributeValue("", 10664, Model.Article.Slug, 10664, 19, false);
 #line hidden
 #nullable disable
             WriteLiteral("                                                <li>\r\n                                                    ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "0983becd086d7ca155078ac461face270f68d97c36148", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "0983becd086d7ca155078ac461face270f68d97c36194", async() => {
                 WriteLiteral("\r\n                                                        ");
 #nullable restore
 #line 189 "D:\Project\Lampshade\ServiceHost\Pages\Article.cshtml"
@@ -640,9 +642,9 @@ WriteAttributeValue("", 10664, Model.Article.Slug, 10664, 19, false);
 #line hidden
 #nullable disable
             WriteLiteral("                                                <div class=\"single-block d-flex\">\r\n                                                    <div class=\"image\">\r\n                                                        ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "0983becd086d7ca155078ac461face270f68d97c40229", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "0983becd086d7ca155078ac461face270f68d97c40275", async() => {
                 WriteLiteral("\r\n                                                            ");
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "0983becd086d7ca155078ac461face270f68d97c40545", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "0983becd086d7ca155078ac461face270f68d97c40591", async() => {
                 }
                 );
                 __Microsoft_AspNetCore_Mvc_Razor_TagHelpers_UrlResolutionTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.Razor.TagHelpers.UrlResolutionTagHelper>();
@@ -717,7 +719,7 @@ AddHtmlAttributeValue("", 13609, article.PictureTitle, 13609, 21, false);
                                                     <div class=""content"">
                                                         <p>
                                                             ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "0983becd086d7ca155078ac461face270f68d97c45305", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "0983becd086d7ca155078ac461face270f68d97c45351", async() => {
                 WriteLiteral("\r\n                                                                ");
 #nullable restore
 #line 213 "D:\Project\Lampshade\ServiceHost\Pages\Article.cshtml"
@@ -789,7 +791,7 @@ AddHtmlAttributeValue("", 13609, article.PictureTitle, 13609, 21, false);
 #line hidden
 #nullable disable
             WriteLiteral("                                                <li>\r\n                                                    ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "0983becd086d7ca155078ac461face270f68d97c49389", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "0983becd086d7ca155078ac461face270f68d97c49435", async() => {
 #nullable restore
 #line 230 "D:\Project\Lampshade\ServiceHost\Pages\Article.cshtml"
                                                                                             Write(tag);
@@ -851,16 +853,26 @@ AddHtmlAttributeValue("", 13609, article.PictureTitle, 13609, 21, false);
 ");
         }
         #pragma warning restore 1998
+        #nullable restore
         [global::Microsoft.AspNetCore.Mvc.Razor.Internal.RazorInjectAttribute]
-        public global::Microsoft.AspNetCore.Mvc.ViewFeatures.IModelExpressionProvider ModelExpressionProvider { get; private set; }
+        public global::Microsoft.AspNetCore.Mvc.ViewFeatures.IModelExpressionProvider ModelExpressionProvider { get; private set; } = default!;
+        #nullable disable
+        #nullable restore
         [global::Microsoft.AspNetCore.Mvc.Razor.Internal.RazorInjectAttribute]
-        public global::Microsoft.AspNetCore.Mvc.IUrlHelper Url { get; private set; }
+        public global::Microsoft.AspNetCore.Mvc.IUrlHelper Url { get; private set; } = default!;
+        #nullable disable
+        #nullable restore
         [global::Microsoft.AspNetCore.Mvc.Razor.Internal.RazorInjectAttribute]
-        public global::Microsoft.AspNetCore.Mvc.IViewComponentHelper Component { get; private set; }
+        public global::Microsoft.AspNetCore.Mvc.IViewComponentHelper Component { get; private set; } = default!;
+        #nullable disable
+        #nullable restore
         [global::Microsoft.AspNetCore.Mvc.Razor.Internal.RazorInjectAttribute]
-        public global::Microsoft.AspNetCore.Mvc.Rendering.IJsonHelper Json { get; private set; }
+        public global::Microsoft.AspNetCore.Mvc.Rendering.IJsonHelper Json { get; private set; } = default!;
+        #nullable disable
+        #nullable restore
         [global::Microsoft.AspNetCore.Mvc.Razor.Internal.RazorInjectAttribute]
-        public global::Microsoft.AspNetCore.Mvc.Rendering.IHtmlHelper<ServiceHost.Pages.ArticleModel> Html { get; private set; }
+        public global::Microsoft.AspNetCore.Mvc.Rendering.IHtmlHelper<ServiceHost.Pages.ArticleModel> Html { get; private set; } = default!;
+        #nullable disable
         public global::Microsoft.AspNetCore.Mvc.ViewFeatures.ViewDataDictionary<ServiceHost.Pages.ArticleModel> ViewData => (global::Microsoft.AspNetCore.Mvc.ViewFeatures.ViewDataDictionary<ServiceHost.Pages.ArticleModel>)PageContext?.ViewData;
         public ServiceHost.Pages.ArticleModel Model => ViewData.Model;
     }

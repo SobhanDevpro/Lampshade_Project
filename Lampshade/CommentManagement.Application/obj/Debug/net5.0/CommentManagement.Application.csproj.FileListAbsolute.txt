@@ -1,6 +1,5 @@
 D:\Project\Lampshade\CommentManagement.Application\bin\Debug\net5.0\CommentManagement.Application.deps.json
 D:\Project\Lampshade\CommentManagement.Application\bin\Debug\net5.0\CommentManagement.Application.dll
-D:\Project\Lampshade\CommentManagement.Application\bin\Debug\net5.0\ref\CommentManagement.Application.dll
 D:\Project\Lampshade\CommentManagement.Application\bin\Debug\net5.0\CommentManagement.Application.pdb
 D:\Project\Lampshade\CommentManagement.Application\bin\Debug\net5.0\0_Framework.dll
 D:\Project\Lampshade\CommentManagement.Application\bin\Debug\net5.0\CommentManagement.Application.Contracts.dll
@@ -8,11 +7,13 @@ D:\Project\Lampshade\CommentManagement.Application\bin\Debug\net5.0\CommentManag
 D:\Project\Lampshade\CommentManagement.Application\bin\Debug\net5.0\0_Framework.pdb
 D:\Project\Lampshade\CommentManagement.Application\bin\Debug\net5.0\CommentManagement.Application.Contracts.pdb
 D:\Project\Lampshade\CommentManagement.Application\bin\Debug\net5.0\CommentManagement.Domain.pdb
+D:\Project\Lampshade\CommentManagement.Application\obj\Debug\net5.0\CommentManagement.Application.csproj.AssemblyReference.cache
 D:\Project\Lampshade\CommentManagement.Application\obj\Debug\net5.0\CommentManagement.Application.GeneratedMSBuildEditorConfig.editorconfig
 D:\Project\Lampshade\CommentManagement.Application\obj\Debug\net5.0\CommentManagement.Application.AssemblyInfoInputs.cache
 D:\Project\Lampshade\CommentManagement.Application\obj\Debug\net5.0\CommentManagement.Application.AssemblyInfo.cs
 D:\Project\Lampshade\CommentManagement.Application\obj\Debug\net5.0\CommentManagement.Application.csproj.CoreCompileInputs.cache
 D:\Project\Lampshade\CommentManagement.Application\obj\Debug\net5.0\CommentManagement.Application.csproj.CopyComplete
 D:\Project\Lampshade\CommentManagement.Application\obj\Debug\net5.0\CommentManagement.Application.dll
-D:\Project\Lampshade\CommentManagement.Application\obj\Debug\net5.0\ref\CommentManagement.Application.dll
+D:\Project\Lampshade\CommentManagement.Application\obj\Debug\net5.0\refint\CommentManagement.Application.dll
 D:\Project\Lampshade\CommentManagement.Application\obj\Debug\net5.0\CommentManagement.Application.pdb
+D:\Project\Lampshade\CommentManagement.Application\obj\Debug\net5.0\ref\CommentManagement.Application.dll

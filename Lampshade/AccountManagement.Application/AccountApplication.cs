@@ -1,6 +1,7 @@
 ﻿using _0_Framework.Application;
 using AccountManagement.Application.Contracts.Account;
 using AccountManagement.Domain.AccountAgg;
+using AccountManagement.Domain.RoleAgg;
 using System.Collections.Generic;
 using System.Linq;
 
@@ -12,13 +13,13 @@ namespace AccountManagement.Application
         private readonly IPasswordHasher _passwordHasher;
         private readonly IAccountRepository _accountRepository;
         private readonly IAuthHelper _authHelper;
-        //private readonly IRoleRepository _roleRepository;
+        private readonly IRoleRepository _roleRepository;
 
-        public AccountApplication(IAccountRepository accountRepository, IPasswordHasher passwordHasher,
+        public AccountApplication(IAccountRepository accountRepository, IRoleRepository roleRepository, IPasswordHasher passwordHasher,
             IFileUploader fileUploader, IAuthHelper authHelper)
         {
             _authHelper = authHelper;
-            //_roleRepository = roleRepository;
+            _roleRepository = roleRepository;
             _fileUploader = fileUploader;
             _passwordHasher = passwordHasher;
             _accountRepository = accountRepository;
@@ -101,13 +102,13 @@ namespace AccountManagement.Application
             if (!result.Verified)
                 return operation.Failed(ApplicationMessages.WrongUserPass);
 
-            //var permissions = _roleRepository.Get(account.RoleId)
-            //    .Permissions
-            //    .Select(x => x.Code)
-            //    .ToList();
+            var permissions = _roleRepository.Get(account.RoleId)
+                .Permissions
+                .Select(x => x.Code)
+                .ToList();
 
             var authViewModel = new AuthViewModel(account.Id, account.RoleId, account.Fullname
-                , account.Username, account.Mobile);
+                , account.Username, account.Mobile, permissions);
 
             _authHelper.Signin(authViewModel);
             return operation.Succedded();

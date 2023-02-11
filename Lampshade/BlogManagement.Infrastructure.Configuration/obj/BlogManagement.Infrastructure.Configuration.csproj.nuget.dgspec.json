@@ -10,11 +10,11 @@
         "projectUniqueName": "D:\\Project\\Lampshade\\01_LampshadeQuery\\01_LampshadeQuery.csproj",
         "projectName": "01_LampshadeQuery",
         "projectPath": "D:\\Project\\Lampshade\\01_LampshadeQuery\\01_LampshadeQuery.csproj",
-        "packagesPath": "C:\\Users\\sobhan\\.nuget\\packages\\",
+        "packagesPath": "C:\\Users\\Sobhan\\.nuget\\packages\\",
         "outputPath": "D:\\Project\\Lampshade\\01_LampshadeQuery\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\sobhan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Sobhan\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -61,7 +61,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -70,7 +71,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     },
@@ -80,11 +81,11 @@
         "projectUniqueName": "D:\\Project\\Lampshade\\0_Framework\\0_Framework.csproj",
         "projectName": "0_Framework",
         "projectPath": "D:\\Project\\Lampshade\\0_Framework\\0_Framework.csproj",
-        "packagesPath": "C:\\Users\\sobhan\\.nuget\\packages\\",
+        "packagesPath": "C:\\Users\\Sobhan\\.nuget\\packages\\",
         "outputPath": "D:\\Project\\Lampshade\\0_Framework\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\sobhan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Sobhan\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -125,6 +126,10 @@
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[5.0.17, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[11.0.2, )"
             }
           },
           "imports": [
@@ -133,7 +138,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -142,7 +148,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     },
@@ -152,11 +158,11 @@
         "projectUniqueName": "D:\\Project\\Lampshade\\BlogManagement.Application.Contracts\\BlogManagement.Application.Contracts.csproj",
         "projectName": "BlogManagement.Application.Contracts",
         "projectPath": "D:\\Project\\Lampshade\\BlogManagement.Application.Contracts\\BlogManagement.Application.Contracts.csproj",
-        "packagesPath": "C:\\Users\\sobhan\\.nuget\\packages\\",
+        "packagesPath": "C:\\Users\\Sobhan\\.nuget\\packages\\",
         "outputPath": "D:\\Project\\Lampshade\\BlogManagement.Application.Contracts\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\sobhan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Sobhan\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -191,7 +197,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -200,7 +207,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     },
@@ -210,11 +217,11 @@
         "projectUniqueName": "D:\\Project\\Lampshade\\BlogManagement.Application\\BlogManagement.Application.csproj",
         "projectName": "BlogManagement.Application",
         "projectPath": "D:\\Project\\Lampshade\\BlogManagement.Application\\BlogManagement.Application.csproj",
-        "packagesPath": "C:\\Users\\sobhan\\.nuget\\packages\\",
+        "packagesPath": "C:\\Users\\Sobhan\\.nuget\\packages\\",
         "outputPath": "D:\\Project\\Lampshade\\BlogManagement.Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\sobhan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Sobhan\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -252,7 +259,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -261,7 +269,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     },
@@ -271,11 +279,11 @@
         "projectUniqueName": "D:\\Project\\Lampshade\\BlogManagement.Domain\\BlogManagement.Domain.csproj",
         "projectName": "BlogManagement.Domain",
         "projectPath": "D:\\Project\\Lampshade\\BlogManagement.Domain\\BlogManagement.Domain.csproj",
-        "packagesPath": "C:\\Users\\sobhan\\.nuget\\packages\\",
+        "packagesPath": "C:\\Users\\Sobhan\\.nuget\\packages\\",
         "outputPath": "D:\\Project\\Lampshade\\BlogManagement.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\sobhan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Sobhan\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -313,7 +321,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -322,7 +331,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     },
@@ -332,11 +341,11 @@
         "projectUniqueName": "D:\\Project\\Lampshade\\BlogManagement.Infrastructure.Configuration\\BlogManagement.Infrastructure.Configuration.csproj",
         "projectName": "BlogManagement.Infrastructure.Configuration",
         "projectPath": "D:\\Project\\Lampshade\\BlogManagement.Infrastructure.Configuration\\BlogManagement.Infrastructure.Configuration.csproj",
-        "packagesPath": "C:\\Users\\sobhan\\.nuget\\packages\\",
+        "packagesPath": "C:\\Users\\Sobhan\\.nuget\\packages\\",
         "outputPath": "D:\\Project\\Lampshade\\BlogManagement.Infrastructure.Configuration\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\sobhan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Sobhan\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -380,7 +389,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -389,7 +399,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     },
@@ -399,11 +409,11 @@
         "projectUniqueName": "D:\\Project\\Lampshade\\BlogManagement.Infrastructure.EFCore\\BlogManagement.Infrastructure.EFCore.csproj",
         "projectName": "BlogManagement.Infrastructure.EFCore",
         "projectPath": "D:\\Project\\Lampshade\\BlogManagement.Infrastructure.EFCore\\BlogManagement.Infrastructure.EFCore.csproj",
-        "packagesPath": "C:\\Users\\sobhan\\.nuget\\packages\\",
+        "packagesPath": "C:\\Users\\Sobhan\\.nuget\\packages\\",
         "outputPath": "D:\\Project\\Lampshade\\BlogManagement.Infrastructure.EFCore\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\sobhan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Sobhan\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -464,7 +474,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -473,7 +484,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     },
@@ -483,11 +494,11 @@
         "projectUniqueName": "D:\\Project\\Lampshade\\CommentManagement.Application.Contracts\\CommentManagement.Application.Contracts.csproj",
         "projectName": "CommentManagement.Application.Contracts",
         "projectPath": "D:\\Project\\Lampshade\\CommentManagement.Application.Contracts\\CommentManagement.Application.Contracts.csproj",
-        "packagesPath": "C:\\Users\\sobhan\\.nuget\\packages\\",
+        "packagesPath": "C:\\Users\\Sobhan\\.nuget\\packages\\",
         "outputPath": "D:\\Project\\Lampshade\\CommentManagement.Application.Contracts\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\sobhan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Sobhan\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -522,7 +533,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -531,7 +543,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     },
@@ -541,11 +553,11 @@
         "projectUniqueName": "D:\\Project\\Lampshade\\CommentManagement.Domain\\CommentManagement.Domain.csproj",
         "projectName": "CommentManagement.Domain",
         "projectPath": "D:\\Project\\Lampshade\\CommentManagement.Domain\\CommentManagement.Domain.csproj",
-        "packagesPath": "C:\\Users\\sobhan\\.nuget\\packages\\",
+        "packagesPath": "C:\\Users\\Sobhan\\.nuget\\packages\\",
         "outputPath": "D:\\Project\\Lampshade\\CommentManagement.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\sobhan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Sobhan\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -583,7 +595,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -592,7 +605,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     },
@@ -602,11 +615,11 @@
         "projectUniqueName": "D:\\Project\\Lampshade\\CommentManagement.Infrastructure.EFCore\\CommentManagement.Infrastructure.EFCore.csproj",
         "projectName": "CommentManagement.Infrastructure.EFCore",
         "projectPath": "D:\\Project\\Lampshade\\CommentManagement.Infrastructure.EFCore\\CommentManagement.Infrastructure.EFCore.csproj",
-        "packagesPath": "C:\\Users\\sobhan\\.nuget\\packages\\",
+        "packagesPath": "C:\\Users\\Sobhan\\.nuget\\packages\\",
         "outputPath": "D:\\Project\\Lampshade\\CommentManagement.Infrastructure.EFCore\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\sobhan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Sobhan\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -667,7 +680,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -676,7 +690,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     },
@@ -686,11 +700,11 @@
         "projectUniqueName": "D:\\Project\\Lampshade\\DiscountManagement.Application.Contracts\\DiscountManagement.Application.Contracts.csproj",
         "projectName": "DiscountManagement.Application.Contracts",
         "projectPath": "D:\\Project\\Lampshade\\DiscountManagement.Application.Contracts\\DiscountManagement.Application.Contracts.csproj",
-        "packagesPath": "C:\\Users\\sobhan\\.nuget\\packages\\",
+        "packagesPath": "C:\\Users\\Sobhan\\.nuget\\packages\\",
         "outputPath": "D:\\Project\\Lampshade\\DiscountManagement.Application.Contracts\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\sobhan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Sobhan\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -728,7 +742,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -737,7 +752,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     },
@@ -747,11 +762,11 @@
         "projectUniqueName": "D:\\Project\\Lampshade\\DiscountManagement.Domain\\DiscountManagement.Domain.csproj",
         "projectName": "DiscountManagement.Domain",
         "projectPath": "D:\\Project\\Lampshade\\DiscountManagement.Domain\\DiscountManagement.Domain.csproj",
-        "packagesPath": "C:\\Users\\sobhan\\.nuget\\packages\\",
+        "packagesPath": "C:\\Users\\Sobhan\\.nuget\\packages\\",
         "outputPath": "D:\\Project\\Lampshade\\DiscountManagement.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\sobhan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Sobhan\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -789,7 +804,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -798,7 +814,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     },
@@ -808,11 +824,11 @@
         "projectUniqueName": "D:\\Project\\Lampshade\\DiscountManagement.Infrastructure.EFCore\\DiscountManagement.Infrastructure.EFCore.csproj",
         "projectName": "DiscountManagement.Infrastructure.EFCore",
         "projectPath": "D:\\Project\\Lampshade\\DiscountManagement.Infrastructure.EFCore\\DiscountManagement.Infrastructure.EFCore.csproj",
-        "packagesPath": "C:\\Users\\sobhan\\.nuget\\packages\\",
+        "packagesPath": "C:\\Users\\Sobhan\\.nuget\\packages\\",
         "outputPath": "D:\\Project\\Lampshade\\DiscountManagement.Infrastructure.EFCore\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\sobhan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Sobhan\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -879,7 +895,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -888,7 +905,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     },
@@ -898,11 +915,11 @@
         "projectUniqueName": "D:\\Project\\Lampshade\\InventoryManagement.Application.Contracts\\InventoryManagement.Application.Contracts.csproj",
         "projectName": "InventoryManagement.Application.Contracts",
         "projectPath": "D:\\Project\\Lampshade\\InventoryManagement.Application.Contracts\\InventoryManagement.Application.Contracts.csproj",
-        "packagesPath": "C:\\Users\\sobhan\\.nuget\\packages\\",
+        "packagesPath": "C:\\Users\\Sobhan\\.nuget\\packages\\",
         "outputPath": "D:\\Project\\Lampshade\\InventoryManagement.Application.Contracts\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\sobhan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Sobhan\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -940,7 +957,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -949,7 +967,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     },
@@ -959,11 +977,11 @@
         "projectUniqueName": "D:\\Project\\Lampshade\\InventoryManagement.Domain\\InventoryManagement.Domain.csproj",
         "projectName": "InventoryManagement.Domain",
         "projectPath": "D:\\Project\\Lampshade\\InventoryManagement.Domain\\InventoryManagement.Domain.csproj",
-        "packagesPath": "C:\\Users\\sobhan\\.nuget\\packages\\",
+        "packagesPath": "C:\\Users\\Sobhan\\.nuget\\packages\\",
         "outputPath": "D:\\Project\\Lampshade\\InventoryManagement.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\sobhan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Sobhan\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -1001,7 +1019,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -1010,7 +1029,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     },
@@ -1020,11 +1039,11 @@
         "projectUniqueName": "D:\\Project\\Lampshade\\InventoryManagement.Infrastructure.EFCore\\InventoryManagement.Infrastructure.EFCore.csproj",
         "projectName": "InventoryManagement.Infrastructure.EFCore",
         "projectPath": "D:\\Project\\Lampshade\\InventoryManagement.Infrastructure.EFCore\\InventoryManagement.Infrastructure.EFCore.csproj",
-        "packagesPath": "C:\\Users\\sobhan\\.nuget\\packages\\",
+        "packagesPath": "C:\\Users\\Sobhan\\.nuget\\packages\\",
         "outputPath": "D:\\Project\\Lampshade\\InventoryManagement.Infrastructure.EFCore\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\sobhan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Sobhan\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -1088,7 +1107,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -1097,7 +1117,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     },
@@ -1107,11 +1127,11 @@
         "projectUniqueName": "D:\\Project\\Lampshade\\ShopManagement.Application.Contracts\\ShopManagement.Application.Contracts.csproj",
         "projectName": "ShopManagement.Application.Contracts",
         "projectPath": "D:\\Project\\Lampshade\\ShopManagement.Application.Contracts\\ShopManagement.Application.Contracts.csproj",
-        "packagesPath": "C:\\Users\\sobhan\\.nuget\\packages\\",
+        "packagesPath": "C:\\Users\\Sobhan\\.nuget\\packages\\",
         "outputPath": "D:\\Project\\Lampshade\\ShopManagement.Application.Contracts\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\sobhan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Sobhan\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -1152,7 +1172,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -1161,7 +1182,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     },
@@ -1171,11 +1192,11 @@
         "projectUniqueName": "D:\\Project\\Lampshade\\ShopManagement.Domain\\ShopManagement.Domain.csproj",
         "projectName": "ShopManagement.Domain",
         "projectPath": "D:\\Project\\Lampshade\\ShopManagement.Domain\\ShopManagement.Domain.csproj",
-        "packagesPath": "C:\\Users\\sobhan\\.nuget\\packages\\",
+        "packagesPath": "C:\\Users\\Sobhan\\.nuget\\packages\\",
         "outputPath": "D:\\Project\\Lampshade\\ShopManagement.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\sobhan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Sobhan\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -1213,7 +1234,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -1222,7 +1244,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     },
@@ -1232,11 +1254,11 @@
         "projectUniqueName": "D:\\Project\\Lampshade\\ShopManagement.Infrastructure.EFCore\\ShopManagement.Infrastructure.EFCore.csproj",
         "projectName": "ShopManagement.Infrastructure.EFCore",
         "projectPath": "D:\\Project\\Lampshade\\ShopManagement.Infrastructure.EFCore\\ShopManagement.Infrastructure.EFCore.csproj",
-        "packagesPath": "C:\\Users\\sobhan\\.nuget\\packages\\",
+        "packagesPath": "C:\\Users\\Sobhan\\.nuget\\packages\\",
         "outputPath": "D:\\Project\\Lampshade\\ShopManagement.Infrastructure.EFCore\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\sobhan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Sobhan\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -1297,7 +1319,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -1306,7 +1329,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     }

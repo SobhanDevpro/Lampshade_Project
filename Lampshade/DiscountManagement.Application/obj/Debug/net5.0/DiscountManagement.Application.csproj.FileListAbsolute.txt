@@ -1,6 +1,5 @@
 D:\Project\Lampshade\DiscountManagement.Application\bin\Debug\net5.0\DiscountManagement.Application.deps.json
 D:\Project\Lampshade\DiscountManagement.Application\bin\Debug\net5.0\DiscountManagement.Application.dll
-D:\Project\Lampshade\DiscountManagement.Application\bin\Debug\net5.0\ref\DiscountManagement.Application.dll
 D:\Project\Lampshade\DiscountManagement.Application\bin\Debug\net5.0\DiscountManagement.Application.pdb
 D:\Project\Lampshade\DiscountManagement.Application\bin\Debug\net5.0\0_Framework.dll
 D:\Project\Lampshade\DiscountManagement.Application\bin\Debug\net5.0\DiscountManagement.Application.Contracts.dll
@@ -10,11 +9,13 @@ D:\Project\Lampshade\DiscountManagement.Application\bin\Debug\net5.0\DiscountMan
 D:\Project\Lampshade\DiscountManagement.Application\bin\Debug\net5.0\DiscountManagement.Domain.pdb
 D:\Project\Lampshade\DiscountManagement.Application\bin\Debug\net5.0\0_Framework.pdb
 D:\Project\Lampshade\DiscountManagement.Application\bin\Debug\net5.0\ShopManagement.Application.Contracts.pdb
+D:\Project\Lampshade\DiscountManagement.Application\obj\Debug\net5.0\DiscountManagement.Application.csproj.AssemblyReference.cache
 D:\Project\Lampshade\DiscountManagement.Application\obj\Debug\net5.0\DiscountManagement.Application.GeneratedMSBuildEditorConfig.editorconfig
 D:\Project\Lampshade\DiscountManagement.Application\obj\Debug\net5.0\DiscountManagement.Application.AssemblyInfoInputs.cache
 D:\Project\Lampshade\DiscountManagement.Application\obj\Debug\net5.0\DiscountManagement.Application.AssemblyInfo.cs
 D:\Project\Lampshade\DiscountManagement.Application\obj\Debug\net5.0\DiscountManagement.Application.csproj.CoreCompileInputs.cache
 D:\Project\Lampshade\DiscountManagement.Application\obj\Debug\net5.0\DiscountManagement.Application.csproj.CopyComplete
 D:\Project\Lampshade\DiscountManagement.Application\obj\Debug\net5.0\DiscountManagement.Application.dll
-D:\Project\Lampshade\DiscountManagement.Application\obj\Debug\net5.0\ref\DiscountManagement.Application.dll
+D:\Project\Lampshade\DiscountManagement.Application\obj\Debug\net5.0\refint\DiscountManagement.Application.dll
 D:\Project\Lampshade\DiscountManagement.Application\obj\Debug\net5.0\DiscountManagement.Application.pdb
+D:\Project\Lampshade\DiscountManagement.Application\obj\Debug\net5.0\ref\DiscountManagement.Application.dll

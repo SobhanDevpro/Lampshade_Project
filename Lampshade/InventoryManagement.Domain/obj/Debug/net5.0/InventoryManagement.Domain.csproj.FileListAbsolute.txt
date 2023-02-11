@@ -1,6 +1,5 @@
 D:\Project\Lampshade\InventoryManagement.Domain\bin\Debug\net5.0\InventoryManagement.Domain.deps.json
 D:\Project\Lampshade\InventoryManagement.Domain\bin\Debug\net5.0\InventoryManagement.Domain.dll
-D:\Project\Lampshade\InventoryManagement.Domain\bin\Debug\net5.0\ref\InventoryManagement.Domain.dll
 D:\Project\Lampshade\InventoryManagement.Domain\bin\Debug\net5.0\InventoryManagement.Domain.pdb
 D:\Project\Lampshade\InventoryManagement.Domain\bin\Debug\net5.0\0_Framework.dll
 D:\Project\Lampshade\InventoryManagement.Domain\bin\Debug\net5.0\InventoryManagement.Application.Contracts.dll
@@ -8,12 +7,13 @@ D:\Project\Lampshade\InventoryManagement.Domain\bin\Debug\net5.0\ShopManagement.
 D:\Project\Lampshade\InventoryManagement.Domain\bin\Debug\net5.0\0_Framework.pdb
 D:\Project\Lampshade\InventoryManagement.Domain\bin\Debug\net5.0\InventoryManagement.Application.Contracts.pdb
 D:\Project\Lampshade\InventoryManagement.Domain\bin\Debug\net5.0\ShopManagement.Application.Contracts.pdb
-D:\Project\Lampshade\InventoryManagement.Domain\obj\Debug\net5.0\InventoryManagement.Domain.csprojAssemblyReference.cache
+D:\Project\Lampshade\InventoryManagement.Domain\obj\Debug\net5.0\InventoryManagement.Domain.csproj.AssemblyReference.cache
 D:\Project\Lampshade\InventoryManagement.Domain\obj\Debug\net5.0\InventoryManagement.Domain.GeneratedMSBuildEditorConfig.editorconfig
 D:\Project\Lampshade\InventoryManagement.Domain\obj\Debug\net5.0\InventoryManagement.Domain.AssemblyInfoInputs.cache
 D:\Project\Lampshade\InventoryManagement.Domain\obj\Debug\net5.0\InventoryManagement.Domain.AssemblyInfo.cs
 D:\Project\Lampshade\InventoryManagement.Domain\obj\Debug\net5.0\InventoryManagement.Domain.csproj.CoreCompileInputs.cache
 D:\Project\Lampshade\InventoryManagement.Domain\obj\Debug\net5.0\InventoryManagement.Domain.csproj.CopyComplete
 D:\Project\Lampshade\InventoryManagement.Domain\obj\Debug\net5.0\InventoryManagement.Domain.dll
-D:\Project\Lampshade\InventoryManagement.Domain\obj\Debug\net5.0\ref\InventoryManagement.Domain.dll
+D:\Project\Lampshade\InventoryManagement.Domain\obj\Debug\net5.0\refint\InventoryManagement.Domain.dll
 D:\Project\Lampshade\InventoryManagement.Domain\obj\Debug\net5.0\InventoryManagement.Domain.pdb
+D:\Project\Lampshade\InventoryManagement.Domain\obj\Debug\net5.0\ref\InventoryManagement.Domain.dll
