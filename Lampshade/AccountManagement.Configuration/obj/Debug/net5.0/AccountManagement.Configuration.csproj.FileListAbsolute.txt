@@ -21,3 +21,4 @@ D:\Project\Lampshade\AccountManagement.Configuration\obj\Debug\net5.0\AccountMan
 D:\Project\Lampshade\AccountManagement.Configuration\obj\Debug\net5.0\refint\AccountManagement.Configuration.dll
 D:\Project\Lampshade\AccountManagement.Configuration\obj\Debug\net5.0\AccountManagement.Configuration.pdb
 D:\Project\Lampshade\AccountManagement.Configuration\obj\Debug\net5.0\ref\AccountManagement.Configuration.dll
+D:\Project\Lampshade\AccountManagement.Configuration\bin\Debug\net5.0\RestSharp.dll

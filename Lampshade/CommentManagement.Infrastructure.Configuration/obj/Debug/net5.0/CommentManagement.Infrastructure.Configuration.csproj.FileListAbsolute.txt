@@ -21,3 +21,4 @@ D:\Project\Lampshade\CommentManagement.Infrastructure.Configuration\obj\Debug\ne
 D:\Project\Lampshade\CommentManagement.Infrastructure.Configuration\obj\Debug\net5.0\refint\CommentManagement.Infrastructure.Configuration.dll
 D:\Project\Lampshade\CommentManagement.Infrastructure.Configuration\obj\Debug\net5.0\CommentManagement.Infrastructure.Configuration.pdb
 D:\Project\Lampshade\CommentManagement.Infrastructure.Configuration\obj\Debug\net5.0\ref\CommentManagement.Infrastructure.Configuration.dll
+D:\Project\Lampshade\CommentManagement.Infrastructure.Configuration\bin\Debug\net5.0\RestSharp.dll

@@ -10,7 +10,7 @@ namespace _0_Framework.Application
         string CurrentAccountRole();
         AuthViewModel CurrentAccountInfo();
         List<int> GetPermissions();
-        //long CurrentAccountId();
+        long CurrentAccountId();
         //string CurrentAccountMobile();
     }
 }

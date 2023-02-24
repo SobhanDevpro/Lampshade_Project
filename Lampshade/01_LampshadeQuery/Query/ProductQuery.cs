@@ -10,6 +10,7 @@ using _01_LampshadeQuery.Contracts.Comment;
 using CommentManagement.Infrastructure.EFCore;
 using InventoryManagement.Infrastructure.EFCore;
 using ShopManagement.Domain.ProductPictureAgg;
+using ShopManagement.Application.Contracts.Order;
 
 namespace _01_LampshadeQuery.Query
 {
@@ -108,6 +109,7 @@ namespace _01_LampshadeQuery.Query
                 product.IsInStock = productInventory.InStock;
                 var price = productInventory.UnitPrice;
                 product.Price = price.ToMoney();
+                product.DoublePrice = price;
                 var discount = discounts.FirstOrDefault(x => x.ProductId == product.Id);
                 if (discount != null)
                 {
@@ -199,5 +201,18 @@ namespace _01_LampshadeQuery.Query
             }).Where(x => !x.IsRemoved).ToList();
         }
 
+        public List<CartItem> CheckInventoryStatus(List<CartItem> cartItems)
+        {
+            var inventory = _inventoryContext.Inventory.ToList();
+
+            foreach (var cartItem in cartItems.Where(cartItem =>
+                inventory.Any(x => x.ProductId == cartItem.Id && x.InStock)))
+            {
+                var itemInventory = inventory.Find(x => x.ProductId == cartItem.Id);
+                cartItem.IsInStock = itemInventory.CalculateCurrentCount() >= cartItem.Count;
+            }
+
+            return cartItems;
+        }
     }
 }

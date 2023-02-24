@@ -17,3 +17,4 @@ D:\Project\Lampshade\CommentManagement.Application\obj\Debug\net5.0\CommentManag
 D:\Project\Lampshade\CommentManagement.Application\obj\Debug\net5.0\refint\CommentManagement.Application.dll
 D:\Project\Lampshade\CommentManagement.Application\obj\Debug\net5.0\CommentManagement.Application.pdb
 D:\Project\Lampshade\CommentManagement.Application\obj\Debug\net5.0\ref\CommentManagement.Application.dll
+D:\Project\Lampshade\CommentManagement.Application\bin\Debug\net5.0\RestSharp.dll

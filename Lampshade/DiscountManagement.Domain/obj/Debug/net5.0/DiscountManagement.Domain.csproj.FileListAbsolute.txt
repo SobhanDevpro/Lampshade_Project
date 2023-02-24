@@ -17,3 +17,4 @@ D:\Project\Lampshade\DiscountManagement.Domain\obj\Debug\net5.0\DiscountManageme
 D:\Project\Lampshade\DiscountManagement.Domain\obj\Debug\net5.0\refint\DiscountManagement.Domain.dll
 D:\Project\Lampshade\DiscountManagement.Domain\obj\Debug\net5.0\DiscountManagement.Domain.pdb
 D:\Project\Lampshade\DiscountManagement.Domain\obj\Debug\net5.0\ref\DiscountManagement.Domain.dll
+D:\Project\Lampshade\DiscountManagement.Domain\bin\Debug\net5.0\RestSharp.dll

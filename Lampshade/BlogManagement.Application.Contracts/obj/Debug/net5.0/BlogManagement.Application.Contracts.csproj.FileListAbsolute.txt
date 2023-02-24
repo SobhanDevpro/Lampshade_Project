@@ -13,3 +13,4 @@ D:\Project\Lampshade\BlogManagement.Application.Contracts\obj\Debug\net5.0\BlogM
 D:\Project\Lampshade\BlogManagement.Application.Contracts\obj\Debug\net5.0\refint\BlogManagement.Application.Contracts.dll
 D:\Project\Lampshade\BlogManagement.Application.Contracts\obj\Debug\net5.0\BlogManagement.Application.Contracts.pdb
 D:\Project\Lampshade\BlogManagement.Application.Contracts\obj\Debug\net5.0\ref\BlogManagement.Application.Contracts.dll
+D:\Project\Lampshade\BlogManagement.Application.Contracts\bin\Debug\net5.0\RestSharp.dll

@@ -47,3 +47,4 @@ D:\Project\Lampshade\BlogManagement.Infrastructure.Configuration\obj\Debug\net5.
 D:\Project\Lampshade\BlogManagement.Infrastructure.Configuration\obj\Debug\net5.0\refint\BlogManagement.Infrastructure.Configuration.dll
 D:\Project\Lampshade\BlogManagement.Infrastructure.Configuration\obj\Debug\net5.0\BlogManagement.Infrastructure.Configuration.pdb
 D:\Project\Lampshade\BlogManagement.Infrastructure.Configuration\obj\Debug\net5.0\ref\BlogManagement.Infrastructure.Configuration.dll
+D:\Project\Lampshade\BlogManagement.Infrastructure.Configuration\bin\Debug\net5.0\RestSharp.dll

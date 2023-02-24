@@ -13,3 +13,4 @@ D:\Project\Lampshade\AccountManagement.Application.Contracts\obj\Debug\net5.0\Ac
 D:\Project\Lampshade\AccountManagement.Application.Contracts\obj\Debug\net5.0\refint\AccountManagement.Application.Contracts.dll
 D:\Project\Lampshade\AccountManagement.Application.Contracts\obj\Debug\net5.0\AccountManagement.Application.Contracts.pdb
 D:\Project\Lampshade\AccountManagement.Application.Contracts\obj\Debug\net5.0\ref\AccountManagement.Application.Contracts.dll
+D:\Project\Lampshade\AccountManagement.Application.Contracts\bin\Debug\net5.0\RestSharp.dll

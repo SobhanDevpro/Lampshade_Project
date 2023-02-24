@@ -20,3 +20,4 @@ D:\Project\Lampshade\AccountManagement.Infrastructure.EFCore\obj\Debug\net5.0\re
 D:\Project\Lampshade\AccountManagement.Infrastructure.EFCore\obj\Debug\net5.0\AccountManagement.Infrastructure.EFCore.pdb
 D:\Project\Lampshade\AccountManagement.Infrastructure.EFCore\obj\Debug\net5.0\AccountManagement.Infrastructure.EFCore.genruntimeconfig.cache
 D:\Project\Lampshade\AccountManagement.Infrastructure.EFCore\obj\Debug\net5.0\ref\AccountManagement.Infrastructure.EFCore.dll
+D:\Project\Lampshade\AccountManagement.Infrastructure.EFCore\bin\Debug\net5.0\RestSharp.dll

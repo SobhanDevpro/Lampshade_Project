@@ -26,3 +26,4 @@ D:\Project\Lampshade\DiscountManagement.Infrastructure.EFCore\obj\Debug\net5.0\r
 D:\Project\Lampshade\DiscountManagement.Infrastructure.EFCore\obj\Debug\net5.0\DiscountManagement.Infrastructure.EFCore.pdb
 D:\Project\Lampshade\DiscountManagement.Infrastructure.EFCore\obj\Debug\net5.0\DiscountManagement.Infrastructure.EFCore.genruntimeconfig.cache
 D:\Project\Lampshade\DiscountManagement.Infrastructure.EFCore\obj\Debug\net5.0\ref\DiscountManagement.Infrastructure.EFCore.dll
+D:\Project\Lampshade\DiscountManagement.Infrastructure.EFCore\bin\Debug\net5.0\RestSharp.dll

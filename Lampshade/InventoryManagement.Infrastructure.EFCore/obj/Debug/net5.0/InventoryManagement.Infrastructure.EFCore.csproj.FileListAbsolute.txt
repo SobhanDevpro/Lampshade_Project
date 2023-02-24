@@ -26,3 +26,4 @@ D:\Project\Lampshade\InventoryManagement.Infrastructure.EFCore\obj\Debug\net5.0\
 D:\Project\Lampshade\InventoryManagement.Infrastructure.EFCore\obj\Debug\net5.0\InventoryManagement.Infrastructure.EFCore.pdb
 D:\Project\Lampshade\InventoryManagement.Infrastructure.EFCore\obj\Debug\net5.0\InventoryManagement.Infrastructure.EFCore.genruntimeconfig.cache
 D:\Project\Lampshade\InventoryManagement.Infrastructure.EFCore\obj\Debug\net5.0\ref\InventoryManagement.Infrastructure.EFCore.dll
+D:\Project\Lampshade\InventoryManagement.Infrastructure.EFCore\bin\Debug\net5.0\RestSharp.dll

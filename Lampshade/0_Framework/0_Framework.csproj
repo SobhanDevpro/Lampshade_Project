@@ -13,4 +13,10 @@
     <PackageReference Include="Newtonsoft.Json" Version="11.0.2" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Reference Include="RestSharp">
+      <HintPath>..\..\..\Courses\Atriya-ASP.NET Core\Code\Lampshade\ServiceHost\bin\Debug\net5.0\RestSharp.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
 </Project>

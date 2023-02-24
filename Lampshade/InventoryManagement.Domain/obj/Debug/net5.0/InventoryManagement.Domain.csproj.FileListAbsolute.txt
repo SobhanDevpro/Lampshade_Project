@@ -17,3 +17,4 @@ D:\Project\Lampshade\InventoryManagement.Domain\obj\Debug\net5.0\InventoryManage
 D:\Project\Lampshade\InventoryManagement.Domain\obj\Debug\net5.0\refint\InventoryManagement.Domain.dll
 D:\Project\Lampshade\InventoryManagement.Domain\obj\Debug\net5.0\InventoryManagement.Domain.pdb
 D:\Project\Lampshade\InventoryManagement.Domain\obj\Debug\net5.0\ref\InventoryManagement.Domain.dll
+D:\Project\Lampshade\InventoryManagement.Domain\bin\Debug\net5.0\RestSharp.dll

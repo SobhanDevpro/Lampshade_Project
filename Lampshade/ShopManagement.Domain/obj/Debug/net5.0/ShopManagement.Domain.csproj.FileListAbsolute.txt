@@ -15,3 +15,4 @@ D:\Project\Lampshade\ShopManagement.Domain\obj\Debug\net5.0\ShopManagement.Domai
 D:\Project\Lampshade\ShopManagement.Domain\obj\Debug\net5.0\refint\ShopManagement.Domain.dll
 D:\Project\Lampshade\ShopManagement.Domain\obj\Debug\net5.0\ShopManagement.Domain.pdb
 D:\Project\Lampshade\ShopManagement.Domain\obj\Debug\net5.0\ref\ShopManagement.Domain.dll
+D:\Project\Lampshade\ShopManagement.Domain\bin\Debug\net5.0\RestSharp.dll

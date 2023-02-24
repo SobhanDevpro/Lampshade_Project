@@ -1339,6 +1339,14 @@
         "runtime": {
           "ShopManagement.Infrastructure.EFCore.dll": {}
         }
+      },
+      "RestSharp/106.11.4.0": {
+        "runtime": {
+          "RestSharp.dll": {
+            "assemblyVersion": "106.11.4.0",
+            "fileVersion": "106.11.4.0"
+          }
+        }
       }
     }
   },
@@ -2197,6 +2205,11 @@
     },
     "ShopManagement.Infrastructure.EFCore/1.0.0": {
       "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "RestSharp/106.11.4.0": {
+      "type": "reference",
       "serviceable": false,
       "sha512": ""
     }

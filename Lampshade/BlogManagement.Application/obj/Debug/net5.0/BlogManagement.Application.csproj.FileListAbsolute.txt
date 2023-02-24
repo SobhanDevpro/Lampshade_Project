@@ -17,3 +17,4 @@ D:\Project\Lampshade\BlogManagement.Application\obj\Debug\net5.0\BlogManagement.
 D:\Project\Lampshade\BlogManagement.Application\obj\Debug\net5.0\refint\BlogManagement.Application.dll
 D:\Project\Lampshade\BlogManagement.Application\obj\Debug\net5.0\BlogManagement.Application.pdb
 D:\Project\Lampshade\BlogManagement.Application\obj\Debug\net5.0\ref\BlogManagement.Application.dll
+D:\Project\Lampshade\BlogManagement.Application\bin\Debug\net5.0\RestSharp.dll

@@ -15,3 +15,4 @@ D:\Project\Lampshade\InventoryManagement.Application.Contracts\obj\Debug\net5.0\
 D:\Project\Lampshade\InventoryManagement.Application.Contracts\obj\Debug\net5.0\refint\InventoryManagement.Application.Contracts.dll
 D:\Project\Lampshade\InventoryManagement.Application.Contracts\obj\Debug\net5.0\InventoryManagement.Application.Contracts.pdb
 D:\Project\Lampshade\InventoryManagement.Application.Contracts\obj\Debug\net5.0\ref\InventoryManagement.Application.Contracts.dll
+D:\Project\Lampshade\InventoryManagement.Application.Contracts\bin\Debug\net5.0\RestSharp.dll

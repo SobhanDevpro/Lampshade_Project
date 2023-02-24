@@ -20,3 +20,4 @@ D:\Project\Lampshade\ShopManagement.Infrastructure.EFCore\obj\Debug\net5.0\refin
 D:\Project\Lampshade\ShopManagement.Infrastructure.EFCore\obj\Debug\net5.0\ShopManagement.Infrastructure.EFCore.pdb
 D:\Project\Lampshade\ShopManagement.Infrastructure.EFCore\obj\Debug\net5.0\ShopManagement.Infrastructure.EFCore.genruntimeconfig.cache
 D:\Project\Lampshade\ShopManagement.Infrastructure.EFCore\obj\Debug\net5.0\ref\ShopManagement.Infrastructure.EFCore.dll
+D:\Project\Lampshade\ShopManagement.Infrastructure.EFCore\bin\Debug\net5.0\RestSharp.dll

@@ -15,3 +15,4 @@ D:\Project\Lampshade\CommentManagement.Domain\obj\Debug\net5.0\CommentManagement
 D:\Project\Lampshade\CommentManagement.Domain\obj\Debug\net5.0\refint\CommentManagement.Domain.dll
 D:\Project\Lampshade\CommentManagement.Domain\obj\Debug\net5.0\CommentManagement.Domain.pdb
 D:\Project\Lampshade\CommentManagement.Domain\obj\Debug\net5.0\ref\CommentManagement.Domain.dll
+D:\Project\Lampshade\CommentManagement.Domain\bin\Debug\net5.0\RestSharp.dll

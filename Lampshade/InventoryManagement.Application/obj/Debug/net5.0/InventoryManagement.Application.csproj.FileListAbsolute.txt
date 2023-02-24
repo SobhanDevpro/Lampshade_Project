@@ -19,3 +19,4 @@ D:\Project\Lampshade\InventoryManagement.Application\obj\Debug\net5.0\InventoryM
 D:\Project\Lampshade\InventoryManagement.Application\obj\Debug\net5.0\refint\InventoryManagement.Application.dll
 D:\Project\Lampshade\InventoryManagement.Application\obj\Debug\net5.0\InventoryManagement.Application.pdb
 D:\Project\Lampshade\InventoryManagement.Application\obj\Debug\net5.0\ref\InventoryManagement.Application.dll
+D:\Project\Lampshade\InventoryManagement.Application\bin\Debug\net5.0\RestSharp.dll

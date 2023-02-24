@@ -20,6 +20,9 @@ using Microsoft.AspNetCore.Authentication.Cookies;
 using ShopManagement.Configuration;
 using Microsoft.AspNetCore.Http;
 using _0_Framework.Infrastructure;
+using _01_LampshadeQuery.Contracts;
+using _01_LampshadeQuery.Query;
+using _0_Framework.Application.ZarinPal;
 
 namespace ServiceHost
 {
@@ -48,6 +51,7 @@ namespace ServiceHost
             services.AddSingleton<IPasswordHasher, PasswordHasher>();
             services.AddTransient<IFileUploader, FileUploader>();
             services.AddTransient<IAuthHelper, AuthHelper>();
+            services.AddTransient<IZarinPalFactory, ZarinPalFactory>();
 
 
             services.Configure<CookiePolicyOptions>(options =>

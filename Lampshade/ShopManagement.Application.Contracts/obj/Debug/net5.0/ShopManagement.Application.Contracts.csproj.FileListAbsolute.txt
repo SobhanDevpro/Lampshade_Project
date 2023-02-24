@@ -13,3 +13,4 @@ D:\Project\Lampshade\ShopManagement.Application.Contracts\obj\Debug\net5.0\ShopM
 D:\Project\Lampshade\ShopManagement.Application.Contracts\obj\Debug\net5.0\refint\ShopManagement.Application.Contracts.dll
 D:\Project\Lampshade\ShopManagement.Application.Contracts\obj\Debug\net5.0\ShopManagement.Application.Contracts.pdb
 D:\Project\Lampshade\ShopManagement.Application.Contracts\obj\Debug\net5.0\ref\ShopManagement.Application.Contracts.dll
+D:\Project\Lampshade\ShopManagement.Application.Contracts\bin\Debug\net5.0\RestSharp.dll

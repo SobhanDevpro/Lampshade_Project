@@ -43,3 +43,4 @@ D:\Project\Lampshade\01_LampshadeQuery\obj\Debug\net5.0\01_LampshadeQuery.dll
 D:\Project\Lampshade\01_LampshadeQuery\obj\Debug\net5.0\refint\01_LampshadeQuery.dll
 D:\Project\Lampshade\01_LampshadeQuery\obj\Debug\net5.0\01_LampshadeQuery.pdb
 D:\Project\Lampshade\01_LampshadeQuery\obj\Debug\net5.0\ref\01_LampshadeQuery.dll
+D:\Project\Lampshade\01_LampshadeQuery\bin\Debug\net5.0\RestSharp.dll

@@ -20,3 +20,4 @@ D:\Project\Lampshade\CommentManagement.Infrastructure.EFCore\obj\Debug\net5.0\re
 D:\Project\Lampshade\CommentManagement.Infrastructure.EFCore\obj\Debug\net5.0\CommentManagement.Infrastructure.EFCore.pdb
 D:\Project\Lampshade\CommentManagement.Infrastructure.EFCore\obj\Debug\net5.0\CommentManagement.Infrastructure.EFCore.genruntimeconfig.cache
 D:\Project\Lampshade\CommentManagement.Infrastructure.EFCore\obj\Debug\net5.0\ref\CommentManagement.Infrastructure.EFCore.dll
+D:\Project\Lampshade\CommentManagement.Infrastructure.EFCore\bin\Debug\net5.0\RestSharp.dll
