@@ -6608,11 +6608,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Project\\Lampshade\\DiscountManagement.Configuration\\DiscountManagement.Configuration.csproj",
+      "projectUniqueName": "D:\\Projects\\Lampshade\\DiscountManagement.Configuration\\DiscountManagement.Configuration.csproj",
       "projectName": "DiscountManagement.Configuration",
-      "projectPath": "D:\\Project\\Lampshade\\DiscountManagement.Configuration\\DiscountManagement.Configuration.csproj",
+      "projectPath": "D:\\Projects\\Lampshade\\DiscountManagement.Configuration\\DiscountManagement.Configuration.csproj",
       "packagesPath": "C:\\Users\\Sobhan\\.nuget\\packages\\",
-      "outputPath": "D:\\Project\\Lampshade\\DiscountManagement.Configuration\\obj\\",
+      "outputPath": "D:\\Projects\\Lampshade\\DiscountManagement.Configuration\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Sobhan\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -6629,14 +6629,14 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "D:\\Project\\Lampshade\\DiscountManagement.Application.Contracts\\DiscountManagement.Application.Contracts.csproj": {
-              "projectPath": "D:\\Project\\Lampshade\\DiscountManagement.Application.Contracts\\DiscountManagement.Application.Contracts.csproj"
+            "D:\\Projects\\Lampshade\\DiscountManagement.Application.Contracts\\DiscountManagement.Application.Contracts.csproj": {
+              "projectPath": "D:\\Projects\\Lampshade\\DiscountManagement.Application.Contracts\\DiscountManagement.Application.Contracts.csproj"
             },
-            "D:\\Project\\Lampshade\\DiscountManagement.Application\\DiscountManagement.Application.csproj": {
-              "projectPath": "D:\\Project\\Lampshade\\DiscountManagement.Application\\DiscountManagement.Application.csproj"
+            "D:\\Projects\\Lampshade\\DiscountManagement.Application\\DiscountManagement.Application.csproj": {
+              "projectPath": "D:\\Projects\\Lampshade\\DiscountManagement.Application\\DiscountManagement.Application.csproj"
             },
-            "D:\\Project\\Lampshade\\DiscountManagement.Infrastructure.EFCore\\DiscountManagement.Infrastructure.EFCore.csproj": {
-              "projectPath": "D:\\Project\\Lampshade\\DiscountManagement.Infrastructure.EFCore\\DiscountManagement.Infrastructure.EFCore.csproj"
+            "D:\\Projects\\Lampshade\\DiscountManagement.Infrastructure.EFCore\\DiscountManagement.Infrastructure.EFCore.csproj": {
+              "projectPath": "D:\\Projects\\Lampshade\\DiscountManagement.Infrastructure.EFCore\\DiscountManagement.Infrastructure.EFCore.csproj"
             }
           }
         }

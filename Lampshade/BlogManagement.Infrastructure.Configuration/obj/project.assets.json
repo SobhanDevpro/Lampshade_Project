@@ -6807,11 +6807,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Project\\Lampshade\\BlogManagement.Infrastructure.Configuration\\BlogManagement.Infrastructure.Configuration.csproj",
+      "projectUniqueName": "D:\\Projects\\Lampshade\\BlogManagement.Infrastructure.Configuration\\BlogManagement.Infrastructure.Configuration.csproj",
       "projectName": "BlogManagement.Infrastructure.Configuration",
-      "projectPath": "D:\\Project\\Lampshade\\BlogManagement.Infrastructure.Configuration\\BlogManagement.Infrastructure.Configuration.csproj",
+      "projectPath": "D:\\Projects\\Lampshade\\BlogManagement.Infrastructure.Configuration\\BlogManagement.Infrastructure.Configuration.csproj",
       "packagesPath": "C:\\Users\\Sobhan\\.nuget\\packages\\",
-      "outputPath": "D:\\Project\\Lampshade\\BlogManagement.Infrastructure.Configuration\\obj\\",
+      "outputPath": "D:\\Projects\\Lampshade\\BlogManagement.Infrastructure.Configuration\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Sobhan\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -6828,17 +6828,17 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "D:\\Project\\Lampshade\\01_LampshadeQuery\\01_LampshadeQuery.csproj": {
-              "projectPath": "D:\\Project\\Lampshade\\01_LampshadeQuery\\01_LampshadeQuery.csproj"
+            "D:\\Projects\\Lampshade\\01_LampshadeQuery\\01_LampshadeQuery.csproj": {
+              "projectPath": "D:\\Projects\\Lampshade\\01_LampshadeQuery\\01_LampshadeQuery.csproj"
             },
-            "D:\\Project\\Lampshade\\BlogManagement.Application.Contracts\\BlogManagement.Application.Contracts.csproj": {
-              "projectPath": "D:\\Project\\Lampshade\\BlogManagement.Application.Contracts\\BlogManagement.Application.Contracts.csproj"
+            "D:\\Projects\\Lampshade\\BlogManagement.Application.Contracts\\BlogManagement.Application.Contracts.csproj": {
+              "projectPath": "D:\\Projects\\Lampshade\\BlogManagement.Application.Contracts\\BlogManagement.Application.Contracts.csproj"
             },
-            "D:\\Project\\Lampshade\\BlogManagement.Application\\BlogManagement.Application.csproj": {
-              "projectPath": "D:\\Project\\Lampshade\\BlogManagement.Application\\BlogManagement.Application.csproj"
+            "D:\\Projects\\Lampshade\\BlogManagement.Application\\BlogManagement.Application.csproj": {
+              "projectPath": "D:\\Projects\\Lampshade\\BlogManagement.Application\\BlogManagement.Application.csproj"
             },
-            "D:\\Project\\Lampshade\\BlogManagement.Infrastructure.EFCore\\BlogManagement.Infrastructure.EFCore.csproj": {
-              "projectPath": "D:\\Project\\Lampshade\\BlogManagement.Infrastructure.EFCore\\BlogManagement.Infrastructure.EFCore.csproj"
+            "D:\\Projects\\Lampshade\\BlogManagement.Infrastructure.EFCore\\BlogManagement.Infrastructure.EFCore.csproj": {
+              "projectPath": "D:\\Projects\\Lampshade\\BlogManagement.Infrastructure.EFCore\\BlogManagement.Infrastructure.EFCore.csproj"
             }
           }
         }

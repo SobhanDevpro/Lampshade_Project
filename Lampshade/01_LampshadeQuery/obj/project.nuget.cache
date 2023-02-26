@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LR/Z7S4rCq3DnNYFUs5P9E27fVxaipLsg6Xp83sxdxsqiq9ZSHLyWSCVXRr1vLyldsbGeo80LwAqjhKlQGKbwg==",
+  "dgSpecHash": "Ax35/eM69IW9aZBrRzF1V0jaFFWBPdqvPutJ8JhvidSQ64HpbQzfGh38iqzCgdpziSXMhcvRE15XlMn3SgLdhQ==",
   "success": true,
-  "projectFilePath": "D:\\Project\\Lampshade\\01_LampshadeQuery\\01_LampshadeQuery.csproj",
+  "projectFilePath": "D:\\Projects\\Lampshade\\01_LampshadeQuery\\01_LampshadeQuery.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Sobhan\\.nuget\\packages\\microsoft.aspnetcore.authentication\\2.2.0\\microsoft.aspnetcore.authentication.2.2.0.nupkg.sha512",
     "C:\\Users\\Sobhan\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",

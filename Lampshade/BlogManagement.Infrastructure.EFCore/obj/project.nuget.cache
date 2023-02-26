@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5CAEAMgIFO6PkKKiP6EPJPN7VuC4oGCyO8lNOcYTLXyN9pdbc/3+KIlJlCPrPQVMXCbKqb5xxEsfrkb1TvWsJw==",
+  "dgSpecHash": "eZhV0E9sZYtcHOFrtSRp2BMiCRsbhbscw66bnautUZwd1dLn4NJsP+JQGjJaVyVhE2J0aQ96JhKgJ0CMYRlLXA==",
   "success": true,
-  "projectFilePath": "D:\\Project\\Lampshade\\BlogManagement.Infrastructure.EFCore\\BlogManagement.Infrastructure.EFCore.csproj",
+  "projectFilePath": "D:\\Projects\\Lampshade\\BlogManagement.Infrastructure.EFCore\\BlogManagement.Infrastructure.EFCore.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Sobhan\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Sobhan\\.nuget\\packages\\microsoft.aspnetcore.authentication\\2.2.0\\microsoft.aspnetcore.authentication.2.2.0.nupkg.sha512",

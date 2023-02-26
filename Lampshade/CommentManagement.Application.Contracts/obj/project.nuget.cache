@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "802mk+32nwntogV9Bc1UOzqTk8+lPa2Y2cTuJ0lsNQrxbKJJ8vM3HUUAuJPUOVTySjQqWdBvu8GY61W9nFwHsA==",
+  "dgSpecHash": "DdCcke2FkB9TkhQgz/iq+Ya/nbp1BYzCGsPSS3OnyDDIZzjQ9guDErHxSxApc7h1mxCZMOZU5BuXa19eq3be0g==",
   "success": true,
-  "projectFilePath": "D:\\Project\\Lampshade\\CommentManagement.Application.Contracts\\CommentManagement.Application.Contracts.csproj",
+  "projectFilePath": "D:\\Projects\\Lampshade\\CommentManagement.Application.Contracts\\CommentManagement.Application.Contracts.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Sobhan\\.nuget\\packages\\microsoft.aspnetcore.authentication\\2.2.0\\microsoft.aspnetcore.authentication.2.2.0.nupkg.sha512",
     "C:\\Users\\Sobhan\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",

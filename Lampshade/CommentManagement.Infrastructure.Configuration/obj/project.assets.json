@@ -6487,11 +6487,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Project\\Lampshade\\CommentManagement.Infrastructure.Configuration\\CommentManagement.Infrastructure.Configuration.csproj",
+      "projectUniqueName": "D:\\Projects\\Lampshade\\CommentManagement.Infrastructure.Configuration\\CommentManagement.Infrastructure.Configuration.csproj",
       "projectName": "CommentManagement.Infrastructure.Configuration",
-      "projectPath": "D:\\Project\\Lampshade\\CommentManagement.Infrastructure.Configuration\\CommentManagement.Infrastructure.Configuration.csproj",
+      "projectPath": "D:\\Projects\\Lampshade\\CommentManagement.Infrastructure.Configuration\\CommentManagement.Infrastructure.Configuration.csproj",
       "packagesPath": "C:\\Users\\Sobhan\\.nuget\\packages\\",
-      "outputPath": "D:\\Project\\Lampshade\\CommentManagement.Infrastructure.Configuration\\obj\\",
+      "outputPath": "D:\\Projects\\Lampshade\\CommentManagement.Infrastructure.Configuration\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Sobhan\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -6508,14 +6508,14 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "D:\\Project\\Lampshade\\CommentManagement.Application\\CommentManagement.Application.csproj": {
-              "projectPath": "D:\\Project\\Lampshade\\CommentManagement.Application\\CommentManagement.Application.csproj"
+            "D:\\Projects\\Lampshade\\CommentManagement.Application\\CommentManagement.Application.csproj": {
+              "projectPath": "D:\\Projects\\Lampshade\\CommentManagement.Application\\CommentManagement.Application.csproj"
             },
-            "D:\\Project\\Lampshade\\CommentManagement.Domain\\CommentManagement.Domain.csproj": {
-              "projectPath": "D:\\Project\\Lampshade\\CommentManagement.Domain\\CommentManagement.Domain.csproj"
+            "D:\\Projects\\Lampshade\\CommentManagement.Domain\\CommentManagement.Domain.csproj": {
+              "projectPath": "D:\\Projects\\Lampshade\\CommentManagement.Domain\\CommentManagement.Domain.csproj"
             },
-            "D:\\Project\\Lampshade\\CommentManagement.Infrastructure.EFCore\\CommentManagement.Infrastructure.EFCore.csproj": {
-              "projectPath": "D:\\Project\\Lampshade\\CommentManagement.Infrastructure.EFCore\\CommentManagement.Infrastructure.EFCore.csproj"
+            "D:\\Projects\\Lampshade\\CommentManagement.Infrastructure.EFCore\\CommentManagement.Infrastructure.EFCore.csproj": {
+              "projectPath": "D:\\Projects\\Lampshade\\CommentManagement.Infrastructure.EFCore\\CommentManagement.Infrastructure.EFCore.csproj"
             }
           }
         }

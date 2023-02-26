@@ -1856,11 +1856,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Project\\Lampshade\\BlogManagement.Application.Contracts\\BlogManagement.Application.Contracts.csproj",
+      "projectUniqueName": "D:\\Projects\\Lampshade\\BlogManagement.Application.Contracts\\BlogManagement.Application.Contracts.csproj",
       "projectName": "BlogManagement.Application.Contracts",
-      "projectPath": "D:\\Project\\Lampshade\\BlogManagement.Application.Contracts\\BlogManagement.Application.Contracts.csproj",
+      "projectPath": "D:\\Projects\\Lampshade\\BlogManagement.Application.Contracts\\BlogManagement.Application.Contracts.csproj",
       "packagesPath": "C:\\Users\\Sobhan\\.nuget\\packages\\",
-      "outputPath": "D:\\Project\\Lampshade\\BlogManagement.Application.Contracts\\obj\\",
+      "outputPath": "D:\\Projects\\Lampshade\\BlogManagement.Application.Contracts\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Sobhan\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -1877,8 +1877,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "D:\\Project\\Lampshade\\0_Framework\\0_Framework.csproj": {
-              "projectPath": "D:\\Project\\Lampshade\\0_Framework\\0_Framework.csproj"
+            "D:\\Projects\\Lampshade\\0_Framework\\0_Framework.csproj": {
+              "projectPath": "D:\\Projects\\Lampshade\\0_Framework\\0_Framework.csproj"
             }
           }
         }

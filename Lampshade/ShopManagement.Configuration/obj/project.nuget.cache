@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "R6LjCbNl/Nv0AucfaEv5EaUkkAQoJql+bgsLZ9Hf2A7O1gb1weQQl0fmTFYEX0/RuhnMenER/H42AbtXTWpeJA==",
+  "dgSpecHash": "BX8TlY6CeENtmPSPrQXvr3yRQKLTC2Y6mbM4QuK4ZdsKpKQrHXB67w9lY2xYY9bDbjdYIx6vcpCt4qeyY6VhlQ==",
   "success": true,
-  "projectFilePath": "D:\\Project\\Lampshade\\ShopManagement.Configuration\\ShopManagement.Configuration.csproj",
+  "projectFilePath": "D:\\Projects\\Lampshade\\ShopManagement.Configuration\\ShopManagement.Configuration.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Sobhan\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Sobhan\\.nuget\\packages\\microsoft.aspnetcore.authentication\\2.2.0\\microsoft.aspnetcore.authentication.2.2.0.nupkg.sha512",

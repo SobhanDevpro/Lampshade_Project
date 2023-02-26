@@ -1914,11 +1914,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Project\\Lampshade\\DiscountManagement.Application\\DiscountManagement.Application.csproj",
+      "projectUniqueName": "D:\\Projects\\Lampshade\\DiscountManagement.Application\\DiscountManagement.Application.csproj",
       "projectName": "DiscountManagement.Application",
-      "projectPath": "D:\\Project\\Lampshade\\DiscountManagement.Application\\DiscountManagement.Application.csproj",
+      "projectPath": "D:\\Projects\\Lampshade\\DiscountManagement.Application\\DiscountManagement.Application.csproj",
       "packagesPath": "C:\\Users\\Sobhan\\.nuget\\packages\\",
-      "outputPath": "D:\\Project\\Lampshade\\DiscountManagement.Application\\obj\\",
+      "outputPath": "D:\\Projects\\Lampshade\\DiscountManagement.Application\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Sobhan\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -1935,11 +1935,11 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "D:\\Project\\Lampshade\\DiscountManagement.Application.Contracts\\DiscountManagement.Application.Contracts.csproj": {
-              "projectPath": "D:\\Project\\Lampshade\\DiscountManagement.Application.Contracts\\DiscountManagement.Application.Contracts.csproj"
+            "D:\\Projects\\Lampshade\\DiscountManagement.Application.Contracts\\DiscountManagement.Application.Contracts.csproj": {
+              "projectPath": "D:\\Projects\\Lampshade\\DiscountManagement.Application.Contracts\\DiscountManagement.Application.Contracts.csproj"
             },
-            "D:\\Project\\Lampshade\\DiscountManagement.Domain\\DiscountManagement.Domain.csproj": {
-              "projectPath": "D:\\Project\\Lampshade\\DiscountManagement.Domain\\DiscountManagement.Domain.csproj"
+            "D:\\Projects\\Lampshade\\DiscountManagement.Domain\\DiscountManagement.Domain.csproj": {
+              "projectPath": "D:\\Projects\\Lampshade\\DiscountManagement.Domain\\DiscountManagement.Domain.csproj"
             }
           }
         }

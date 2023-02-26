@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tdugrnER/M2oxxK/kEarM2O0AS2iRTPcM96yvdQkM2A5CNM+JfGLMrsiUv5+mbKYsC+VZid3btI0ToCVt7E4ug==",
+  "dgSpecHash": "endOgYyWPl5V1vWx7ujPSRYxerBV9igvwhk5+K5eV7L5lHr1nVu23IVPxQDMUsku7FRiYBAMPMBVB03BfI7ulA==",
   "success": true,
-  "projectFilePath": "D:\\Project\\Lampshade\\BlogManagement.Application.Contracts\\BlogManagement.Application.Contracts.csproj",
+  "projectFilePath": "D:\\Projects\\Lampshade\\BlogManagement.Application.Contracts\\BlogManagement.Application.Contracts.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Sobhan\\.nuget\\packages\\microsoft.aspnetcore.authentication\\2.2.0\\microsoft.aspnetcore.authentication.2.2.0.nupkg.sha512",
     "C:\\Users\\Sobhan\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",

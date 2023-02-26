@@ -6551,11 +6551,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Project\\Lampshade\\AccountManagement.Infrastructure.EFCore\\AccountManagement.Infrastructure.EFCore.csproj",
+      "projectUniqueName": "D:\\Projects\\Lampshade\\AccountManagement.Infrastructure.EFCore\\AccountManagement.Infrastructure.EFCore.csproj",
       "projectName": "AccountManagement.Infrastructure.EFCore",
-      "projectPath": "D:\\Project\\Lampshade\\AccountManagement.Infrastructure.EFCore\\AccountManagement.Infrastructure.EFCore.csproj",
+      "projectPath": "D:\\Projects\\Lampshade\\AccountManagement.Infrastructure.EFCore\\AccountManagement.Infrastructure.EFCore.csproj",
       "packagesPath": "C:\\Users\\Sobhan\\.nuget\\packages\\",
-      "outputPath": "D:\\Project\\Lampshade\\AccountManagement.Infrastructure.EFCore\\obj\\",
+      "outputPath": "D:\\Projects\\Lampshade\\AccountManagement.Infrastructure.EFCore\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Sobhan\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -6572,8 +6572,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "D:\\Project\\Lampshade\\AccountManagement.Domain\\AccountManagement.Domain.csproj": {
-              "projectPath": "D:\\Project\\Lampshade\\AccountManagement.Domain\\AccountManagement.Domain.csproj"
+            "D:\\Projects\\Lampshade\\AccountManagement.Domain\\AccountManagement.Domain.csproj": {
+              "projectPath": "D:\\Projects\\Lampshade\\AccountManagement.Domain\\AccountManagement.Domain.csproj"
             }
           }
         }

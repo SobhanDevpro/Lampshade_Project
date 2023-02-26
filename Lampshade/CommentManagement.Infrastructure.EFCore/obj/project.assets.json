@@ -6551,11 +6551,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Project\\Lampshade\\CommentManagement.Infrastructure.EFCore\\CommentManagement.Infrastructure.EFCore.csproj",
+      "projectUniqueName": "D:\\Projects\\Lampshade\\CommentManagement.Infrastructure.EFCore\\CommentManagement.Infrastructure.EFCore.csproj",
       "projectName": "CommentManagement.Infrastructure.EFCore",
-      "projectPath": "D:\\Project\\Lampshade\\CommentManagement.Infrastructure.EFCore\\CommentManagement.Infrastructure.EFCore.csproj",
+      "projectPath": "D:\\Projects\\Lampshade\\CommentManagement.Infrastructure.EFCore\\CommentManagement.Infrastructure.EFCore.csproj",
       "packagesPath": "C:\\Users\\Sobhan\\.nuget\\packages\\",
-      "outputPath": "D:\\Project\\Lampshade\\CommentManagement.Infrastructure.EFCore\\obj\\",
+      "outputPath": "D:\\Projects\\Lampshade\\CommentManagement.Infrastructure.EFCore\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Sobhan\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -6572,8 +6572,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "D:\\Project\\Lampshade\\CommentManagement.Domain\\CommentManagement.Domain.csproj": {
-              "projectPath": "D:\\Project\\Lampshade\\CommentManagement.Domain\\CommentManagement.Domain.csproj"
+            "D:\\Projects\\Lampshade\\CommentManagement.Domain\\CommentManagement.Domain.csproj": {
+              "projectPath": "D:\\Projects\\Lampshade\\CommentManagement.Domain\\CommentManagement.Domain.csproj"
             }
           }
         }

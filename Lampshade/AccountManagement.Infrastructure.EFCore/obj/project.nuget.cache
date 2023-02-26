@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "r9aF2bySHFJJ/rSipMq/TsM0hapnhvZQXODz03DqZvjI1l+KkbVjewfuqFwEIrkmf/KRTXf8/XpIRJ0OZ+4nYA==",
+  "dgSpecHash": "n8vYklCT+bSN/KA/JRBHddZMGa/uvtXJ/dUagt3x5uOAMrQYbBA2rcJl0mI0KBG7xrGWPQPF7uw8b0tNo0kq6Q==",
   "success": true,
-  "projectFilePath": "D:\\Project\\Lampshade\\AccountManagement.Infrastructure.EFCore\\AccountManagement.Infrastructure.EFCore.csproj",
+  "projectFilePath": "D:\\Projects\\Lampshade\\AccountManagement.Infrastructure.EFCore\\AccountManagement.Infrastructure.EFCore.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Sobhan\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Sobhan\\.nuget\\packages\\microsoft.aspnetcore.authentication\\2.2.0\\microsoft.aspnetcore.authentication.2.2.0.nupkg.sha512",

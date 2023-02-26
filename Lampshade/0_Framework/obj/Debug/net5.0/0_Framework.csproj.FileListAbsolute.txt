@@ -12,3 +12,17 @@ D:\Project\Lampshade\0_Framework\obj\Debug\net5.0\0_Framework.pdb
 D:\Project\Lampshade\0_Framework\obj\Debug\net5.0\ref\0_Framework.dll
 D:\Project\Lampshade\0_Framework\bin\Debug\net5.0\RestSharp.dll
 D:\Project\Lampshade\0_Framework\obj\Debug\net5.0\0_Framework.csproj.CopyComplete
+D:\Projects\Lampshade\0_Framework\bin\Debug\net5.0\0_Framework.deps.json
+D:\Projects\Lampshade\0_Framework\bin\Debug\net5.0\0_Framework.dll
+D:\Projects\Lampshade\0_Framework\bin\Debug\net5.0\0_Framework.pdb
+D:\Projects\Lampshade\0_Framework\bin\Debug\net5.0\RestSharp.dll
+D:\Projects\Lampshade\0_Framework\obj\Debug\net5.0\0_Framework.csproj.AssemblyReference.cache
+D:\Projects\Lampshade\0_Framework\obj\Debug\net5.0\0_Framework.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Lampshade\0_Framework\obj\Debug\net5.0\0_Framework.AssemblyInfoInputs.cache
+D:\Projects\Lampshade\0_Framework\obj\Debug\net5.0\0_Framework.AssemblyInfo.cs
+D:\Projects\Lampshade\0_Framework\obj\Debug\net5.0\0_Framework.csproj.CoreCompileInputs.cache
+D:\Projects\Lampshade\0_Framework\obj\Debug\net5.0\0_Framework.csproj.CopyComplete
+D:\Projects\Lampshade\0_Framework\obj\Debug\net5.0\0_Framework.dll
+D:\Projects\Lampshade\0_Framework\obj\Debug\net5.0\refint\0_Framework.dll
+D:\Projects\Lampshade\0_Framework\obj\Debug\net5.0\0_Framework.pdb
+D:\Projects\Lampshade\0_Framework\obj\Debug\net5.0\ref\0_Framework.dll

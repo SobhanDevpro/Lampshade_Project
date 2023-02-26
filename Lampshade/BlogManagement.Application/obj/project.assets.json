@@ -1894,11 +1894,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Project\\Lampshade\\BlogManagement.Application\\BlogManagement.Application.csproj",
+      "projectUniqueName": "D:\\Projects\\Lampshade\\BlogManagement.Application\\BlogManagement.Application.csproj",
       "projectName": "BlogManagement.Application",
-      "projectPath": "D:\\Project\\Lampshade\\BlogManagement.Application\\BlogManagement.Application.csproj",
+      "projectPath": "D:\\Projects\\Lampshade\\BlogManagement.Application\\BlogManagement.Application.csproj",
       "packagesPath": "C:\\Users\\Sobhan\\.nuget\\packages\\",
-      "outputPath": "D:\\Project\\Lampshade\\BlogManagement.Application\\obj\\",
+      "outputPath": "D:\\Projects\\Lampshade\\BlogManagement.Application\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Sobhan\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -1915,11 +1915,11 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "D:\\Project\\Lampshade\\BlogManagement.Application.Contracts\\BlogManagement.Application.Contracts.csproj": {
-              "projectPath": "D:\\Project\\Lampshade\\BlogManagement.Application.Contracts\\BlogManagement.Application.Contracts.csproj"
+            "D:\\Projects\\Lampshade\\BlogManagement.Application.Contracts\\BlogManagement.Application.Contracts.csproj": {
+              "projectPath": "D:\\Projects\\Lampshade\\BlogManagement.Application.Contracts\\BlogManagement.Application.Contracts.csproj"
             },
-            "D:\\Project\\Lampshade\\BlogManagement.Domain\\BlogManagement.Domain.csproj": {
-              "projectPath": "D:\\Project\\Lampshade\\BlogManagement.Domain\\BlogManagement.Domain.csproj"
+            "D:\\Projects\\Lampshade\\BlogManagement.Domain\\BlogManagement.Domain.csproj": {
+              "projectPath": "D:\\Projects\\Lampshade\\BlogManagement.Domain\\BlogManagement.Domain.csproj"
             }
           }
         }

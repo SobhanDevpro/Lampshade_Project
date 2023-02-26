@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "N4y33LUNe+YSprrnYcyYXJ95MPP5JdIHNF1SE0pBo3mSGYJu11UkWY1sxI3wxRRMkkMD9HR/qqpyjsAWSFYPhQ==",
+  "dgSpecHash": "IqM8+UwJ+R3ONETR74HEciCUnl9mqneUDv3mS+lmZu6z9Ic4BFodpixEvxDxq2apKtFt+6/eLoLtev0RvrtJIA==",
   "success": true,
-  "projectFilePath": "D:\\Project\\Lampshade\\DiscountManagement.Domain\\DiscountManagement.Domain.csproj",
+  "projectFilePath": "D:\\Projects\\Lampshade\\DiscountManagement.Domain\\DiscountManagement.Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Sobhan\\.nuget\\packages\\microsoft.aspnetcore.authentication\\2.2.0\\microsoft.aspnetcore.authentication.2.2.0.nupkg.sha512",
     "C:\\Users\\Sobhan\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",

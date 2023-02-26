@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = AccountManagement.Infrastructure.EFCore
-build_property.ProjectDir = D:\Project\Lampshade\AccountManagement.Infrastructure.EFCore\
+build_property.ProjectDir = D:\Projects\Lampshade\AccountManagement.Infrastructure.EFCore\

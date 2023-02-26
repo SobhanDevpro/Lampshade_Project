@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gpe/ildLdG0yX+J4Hf8bbZQx17jcNeTM/sA5+taOnKhDJe1P3k4y6c0nwxmC6rNJ7wOFq3ezPffFvEsGg7f8og==",
+  "dgSpecHash": "adcqecf0w69T28MZQwNgLRk6vmXWOszLSj8OzMUeDZV3yuvKYcSpn4inqhgiOElEyS8TJODslY7kfAEKlpsy0Q==",
   "success": true,
-  "projectFilePath": "D:\\Project\\Lampshade\\InventoryManagement.Domain\\InventoryManagement.Domain.csproj",
+  "projectFilePath": "D:\\Projects\\Lampshade\\InventoryManagement.Domain\\InventoryManagement.Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Sobhan\\.nuget\\packages\\microsoft.aspnetcore.authentication\\2.2.0\\microsoft.aspnetcore.authentication.2.2.0.nupkg.sha512",
     "C:\\Users\\Sobhan\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",

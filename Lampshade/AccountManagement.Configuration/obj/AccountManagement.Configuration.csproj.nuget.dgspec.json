@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Project\\Lampshade\\AccountManagement.Configuration\\AccountManagement.Configuration.csproj": {}
+    "D:\\Projects\\Lampshade\\AccountManagement.Configuration\\AccountManagement.Configuration.csproj": {}
   },
   "projects": {
-    "D:\\Project\\Lampshade\\0_Framework\\0_Framework.csproj": {
+    "D:\\Projects\\Lampshade\\0_Framework\\0_Framework.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Project\\Lampshade\\0_Framework\\0_Framework.csproj",
+        "projectUniqueName": "D:\\Projects\\Lampshade\\0_Framework\\0_Framework.csproj",
         "projectName": "0_Framework",
-        "projectPath": "D:\\Project\\Lampshade\\0_Framework\\0_Framework.csproj",
+        "projectPath": "D:\\Projects\\Lampshade\\0_Framework\\0_Framework.csproj",
         "packagesPath": "C:\\Users\\Sobhan\\.nuget\\packages\\",
-        "outputPath": "D:\\Project\\Lampshade\\0_Framework\\obj\\",
+        "outputPath": "D:\\Projects\\Lampshade\\0_Framework\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Sobhan\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -81,14 +81,14 @@
         }
       }
     },
-    "D:\\Project\\Lampshade\\AccountManagement.Application.Contracts\\AccountManagement.Application.Contracts.csproj": {
+    "D:\\Projects\\Lampshade\\AccountManagement.Application.Contracts\\AccountManagement.Application.Contracts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Project\\Lampshade\\AccountManagement.Application.Contracts\\AccountManagement.Application.Contracts.csproj",
+        "projectUniqueName": "D:\\Projects\\Lampshade\\AccountManagement.Application.Contracts\\AccountManagement.Application.Contracts.csproj",
         "projectName": "AccountManagement.Application.Contracts",
-        "projectPath": "D:\\Project\\Lampshade\\AccountManagement.Application.Contracts\\AccountManagement.Application.Contracts.csproj",
+        "projectPath": "D:\\Projects\\Lampshade\\AccountManagement.Application.Contracts\\AccountManagement.Application.Contracts.csproj",
         "packagesPath": "C:\\Users\\Sobhan\\.nuget\\packages\\",
-        "outputPath": "D:\\Project\\Lampshade\\AccountManagement.Application.Contracts\\obj\\",
+        "outputPath": "D:\\Projects\\Lampshade\\AccountManagement.Application.Contracts\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Sobhan\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -105,8 +105,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "D:\\Project\\Lampshade\\0_Framework\\0_Framework.csproj": {
-                "projectPath": "D:\\Project\\Lampshade\\0_Framework\\0_Framework.csproj"
+              "D:\\Projects\\Lampshade\\0_Framework\\0_Framework.csproj": {
+                "projectPath": "D:\\Projects\\Lampshade\\0_Framework\\0_Framework.csproj"
               }
             }
           }
@@ -140,14 +140,14 @@
         }
       }
     },
-    "D:\\Project\\Lampshade\\AccountManagement.Application\\AccountManagement.Application.csproj": {
+    "D:\\Projects\\Lampshade\\AccountManagement.Application\\AccountManagement.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Project\\Lampshade\\AccountManagement.Application\\AccountManagement.Application.csproj",
+        "projectUniqueName": "D:\\Projects\\Lampshade\\AccountManagement.Application\\AccountManagement.Application.csproj",
         "projectName": "AccountManagement.Application",
-        "projectPath": "D:\\Project\\Lampshade\\AccountManagement.Application\\AccountManagement.Application.csproj",
+        "projectPath": "D:\\Projects\\Lampshade\\AccountManagement.Application\\AccountManagement.Application.csproj",
         "packagesPath": "C:\\Users\\Sobhan\\.nuget\\packages\\",
-        "outputPath": "D:\\Project\\Lampshade\\AccountManagement.Application\\obj\\",
+        "outputPath": "D:\\Projects\\Lampshade\\AccountManagement.Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Sobhan\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -164,11 +164,11 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "D:\\Project\\Lampshade\\AccountManagement.Application.Contracts\\AccountManagement.Application.Contracts.csproj": {
-                "projectPath": "D:\\Project\\Lampshade\\AccountManagement.Application.Contracts\\AccountManagement.Application.Contracts.csproj"
+              "D:\\Projects\\Lampshade\\AccountManagement.Application.Contracts\\AccountManagement.Application.Contracts.csproj": {
+                "projectPath": "D:\\Projects\\Lampshade\\AccountManagement.Application.Contracts\\AccountManagement.Application.Contracts.csproj"
               },
-              "D:\\Project\\Lampshade\\AccountManagement.Domain\\AccountManagement.Domain.csproj": {
-                "projectPath": "D:\\Project\\Lampshade\\AccountManagement.Domain\\AccountManagement.Domain.csproj"
+              "D:\\Projects\\Lampshade\\AccountManagement.Domain\\AccountManagement.Domain.csproj": {
+                "projectPath": "D:\\Projects\\Lampshade\\AccountManagement.Domain\\AccountManagement.Domain.csproj"
               }
             }
           }
@@ -202,14 +202,14 @@
         }
       }
     },
-    "D:\\Project\\Lampshade\\AccountManagement.Configuration\\AccountManagement.Configuration.csproj": {
+    "D:\\Projects\\Lampshade\\AccountManagement.Configuration\\AccountManagement.Configuration.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Project\\Lampshade\\AccountManagement.Configuration\\AccountManagement.Configuration.csproj",
+        "projectUniqueName": "D:\\Projects\\Lampshade\\AccountManagement.Configuration\\AccountManagement.Configuration.csproj",
         "projectName": "AccountManagement.Configuration",
-        "projectPath": "D:\\Project\\Lampshade\\AccountManagement.Configuration\\AccountManagement.Configuration.csproj",
+        "projectPath": "D:\\Projects\\Lampshade\\AccountManagement.Configuration\\AccountManagement.Configuration.csproj",
         "packagesPath": "C:\\Users\\Sobhan\\.nuget\\packages\\",
-        "outputPath": "D:\\Project\\Lampshade\\AccountManagement.Configuration\\obj\\",
+        "outputPath": "D:\\Projects\\Lampshade\\AccountManagement.Configuration\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Sobhan\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -226,17 +226,17 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "D:\\Project\\Lampshade\\AccountManagement.Application.Contracts\\AccountManagement.Application.Contracts.csproj": {
-                "projectPath": "D:\\Project\\Lampshade\\AccountManagement.Application.Contracts\\AccountManagement.Application.Contracts.csproj"
+              "D:\\Projects\\Lampshade\\AccountManagement.Application.Contracts\\AccountManagement.Application.Contracts.csproj": {
+                "projectPath": "D:\\Projects\\Lampshade\\AccountManagement.Application.Contracts\\AccountManagement.Application.Contracts.csproj"
               },
-              "D:\\Project\\Lampshade\\AccountManagement.Application\\AccountManagement.Application.csproj": {
-                "projectPath": "D:\\Project\\Lampshade\\AccountManagement.Application\\AccountManagement.Application.csproj"
+              "D:\\Projects\\Lampshade\\AccountManagement.Application\\AccountManagement.Application.csproj": {
+                "projectPath": "D:\\Projects\\Lampshade\\AccountManagement.Application\\AccountManagement.Application.csproj"
               },
-              "D:\\Project\\Lampshade\\AccountManagement.Domain\\AccountManagement.Domain.csproj": {
-                "projectPath": "D:\\Project\\Lampshade\\AccountManagement.Domain\\AccountManagement.Domain.csproj"
+              "D:\\Projects\\Lampshade\\AccountManagement.Domain\\AccountManagement.Domain.csproj": {
+                "projectPath": "D:\\Projects\\Lampshade\\AccountManagement.Domain\\AccountManagement.Domain.csproj"
               },
-              "D:\\Project\\Lampshade\\AccountManagement.Infrastructure.EFCore\\AccountManagement.Infrastructure.EFCore.csproj": {
-                "projectPath": "D:\\Project\\Lampshade\\AccountManagement.Infrastructure.EFCore\\AccountManagement.Infrastructure.EFCore.csproj"
+              "D:\\Projects\\Lampshade\\AccountManagement.Infrastructure.EFCore\\AccountManagement.Infrastructure.EFCore.csproj": {
+                "projectPath": "D:\\Projects\\Lampshade\\AccountManagement.Infrastructure.EFCore\\AccountManagement.Infrastructure.EFCore.csproj"
               }
             }
           }
@@ -270,14 +270,14 @@
         }
       }
     },
-    "D:\\Project\\Lampshade\\AccountManagement.Domain\\AccountManagement.Domain.csproj": {
+    "D:\\Projects\\Lampshade\\AccountManagement.Domain\\AccountManagement.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Project\\Lampshade\\AccountManagement.Domain\\AccountManagement.Domain.csproj",
+        "projectUniqueName": "D:\\Projects\\Lampshade\\AccountManagement.Domain\\AccountManagement.Domain.csproj",
         "projectName": "AccountManagement.Domain",
-        "projectPath": "D:\\Project\\Lampshade\\AccountManagement.Domain\\AccountManagement.Domain.csproj",
+        "projectPath": "D:\\Projects\\Lampshade\\AccountManagement.Domain\\AccountManagement.Domain.csproj",
         "packagesPath": "C:\\Users\\Sobhan\\.nuget\\packages\\",
-        "outputPath": "D:\\Project\\Lampshade\\AccountManagement.Domain\\obj\\",
+        "outputPath": "D:\\Projects\\Lampshade\\AccountManagement.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Sobhan\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -294,11 +294,11 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "D:\\Project\\Lampshade\\0_Framework\\0_Framework.csproj": {
-                "projectPath": "D:\\Project\\Lampshade\\0_Framework\\0_Framework.csproj"
+              "D:\\Projects\\Lampshade\\0_Framework\\0_Framework.csproj": {
+                "projectPath": "D:\\Projects\\Lampshade\\0_Framework\\0_Framework.csproj"
               },
-              "D:\\Project\\Lampshade\\AccountManagement.Application.Contracts\\AccountManagement.Application.Contracts.csproj": {
-                "projectPath": "D:\\Project\\Lampshade\\AccountManagement.Application.Contracts\\AccountManagement.Application.Contracts.csproj"
+              "D:\\Projects\\Lampshade\\AccountManagement.Application.Contracts\\AccountManagement.Application.Contracts.csproj": {
+                "projectPath": "D:\\Projects\\Lampshade\\AccountManagement.Application.Contracts\\AccountManagement.Application.Contracts.csproj"
               }
             }
           }
@@ -332,14 +332,14 @@
         }
       }
     },
-    "D:\\Project\\Lampshade\\AccountManagement.Infrastructure.EFCore\\AccountManagement.Infrastructure.EFCore.csproj": {
+    "D:\\Projects\\Lampshade\\AccountManagement.Infrastructure.EFCore\\AccountManagement.Infrastructure.EFCore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Project\\Lampshade\\AccountManagement.Infrastructure.EFCore\\AccountManagement.Infrastructure.EFCore.csproj",
+        "projectUniqueName": "D:\\Projects\\Lampshade\\AccountManagement.Infrastructure.EFCore\\AccountManagement.Infrastructure.EFCore.csproj",
         "projectName": "AccountManagement.Infrastructure.EFCore",
-        "projectPath": "D:\\Project\\Lampshade\\AccountManagement.Infrastructure.EFCore\\AccountManagement.Infrastructure.EFCore.csproj",
+        "projectPath": "D:\\Projects\\Lampshade\\AccountManagement.Infrastructure.EFCore\\AccountManagement.Infrastructure.EFCore.csproj",
         "packagesPath": "C:\\Users\\Sobhan\\.nuget\\packages\\",
-        "outputPath": "D:\\Project\\Lampshade\\AccountManagement.Infrastructure.EFCore\\obj\\",
+        "outputPath": "D:\\Projects\\Lampshade\\AccountManagement.Infrastructure.EFCore\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Sobhan\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -356,8 +356,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "D:\\Project\\Lampshade\\AccountManagement.Domain\\AccountManagement.Domain.csproj": {
-                "projectPath": "D:\\Project\\Lampshade\\AccountManagement.Domain\\AccountManagement.Domain.csproj"
+              "D:\\Projects\\Lampshade\\AccountManagement.Domain\\AccountManagement.Domain.csproj": {
+                "projectPath": "D:\\Projects\\Lampshade\\AccountManagement.Domain\\AccountManagement.Domain.csproj"
               }
             }
           }

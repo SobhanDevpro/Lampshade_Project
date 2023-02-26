@@ -6551,11 +6551,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Project\\Lampshade\\BlogManagement.Infrastructure.EFCore\\BlogManagement.Infrastructure.EFCore.csproj",
+      "projectUniqueName": "D:\\Projects\\Lampshade\\BlogManagement.Infrastructure.EFCore\\BlogManagement.Infrastructure.EFCore.csproj",
       "projectName": "BlogManagement.Infrastructure.EFCore",
-      "projectPath": "D:\\Project\\Lampshade\\BlogManagement.Infrastructure.EFCore\\BlogManagement.Infrastructure.EFCore.csproj",
+      "projectPath": "D:\\Projects\\Lampshade\\BlogManagement.Infrastructure.EFCore\\BlogManagement.Infrastructure.EFCore.csproj",
       "packagesPath": "C:\\Users\\Sobhan\\.nuget\\packages\\",
-      "outputPath": "D:\\Project\\Lampshade\\BlogManagement.Infrastructure.EFCore\\obj\\",
+      "outputPath": "D:\\Projects\\Lampshade\\BlogManagement.Infrastructure.EFCore\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Sobhan\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -6572,8 +6572,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "D:\\Project\\Lampshade\\BlogManagement.Domain\\BlogManagement.Domain.csproj": {
-              "projectPath": "D:\\Project\\Lampshade\\BlogManagement.Domain\\BlogManagement.Domain.csproj"
+            "D:\\Projects\\Lampshade\\BlogManagement.Domain\\BlogManagement.Domain.csproj": {
+              "projectPath": "D:\\Projects\\Lampshade\\BlogManagement.Domain\\BlogManagement.Domain.csproj"
             }
           }
         }

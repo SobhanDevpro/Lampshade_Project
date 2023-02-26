@@ -6611,11 +6611,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Project\\Lampshade\\ShopManagement.Infrastructure.EFCore\\ShopManagement.Infrastructure.EFCore.csproj",
+      "projectUniqueName": "D:\\Projects\\Lampshade\\ShopManagement.Infrastructure.EFCore\\ShopManagement.Infrastructure.EFCore.csproj",
       "projectName": "ShopManagement.Infrastructure.EFCore",
-      "projectPath": "D:\\Project\\Lampshade\\ShopManagement.Infrastructure.EFCore\\ShopManagement.Infrastructure.EFCore.csproj",
+      "projectPath": "D:\\Projects\\Lampshade\\ShopManagement.Infrastructure.EFCore\\ShopManagement.Infrastructure.EFCore.csproj",
       "packagesPath": "C:\\Users\\Sobhan\\.nuget\\packages\\",
-      "outputPath": "D:\\Project\\Lampshade\\ShopManagement.Infrastructure.EFCore\\obj\\",
+      "outputPath": "D:\\Projects\\Lampshade\\ShopManagement.Infrastructure.EFCore\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Sobhan\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -6632,11 +6632,11 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "D:\\Project\\Lampshade\\AccountManagement.Infrastructure.EFCore\\AccountManagement.Infrastructure.EFCore.csproj": {
-              "projectPath": "D:\\Project\\Lampshade\\AccountManagement.Infrastructure.EFCore\\AccountManagement.Infrastructure.EFCore.csproj"
+            "D:\\Projects\\Lampshade\\AccountManagement.Infrastructure.EFCore\\AccountManagement.Infrastructure.EFCore.csproj": {
+              "projectPath": "D:\\Projects\\Lampshade\\AccountManagement.Infrastructure.EFCore\\AccountManagement.Infrastructure.EFCore.csproj"
             },
-            "D:\\Project\\Lampshade\\ShopManagement.Domain\\ShopManagement.Domain.csproj": {
-              "projectPath": "D:\\Project\\Lampshade\\ShopManagement.Domain\\ShopManagement.Domain.csproj"
+            "D:\\Projects\\Lampshade\\ShopManagement.Domain\\ShopManagement.Domain.csproj": {
+              "projectPath": "D:\\Projects\\Lampshade\\ShopManagement.Domain\\ShopManagement.Domain.csproj"
             }
           }
         }

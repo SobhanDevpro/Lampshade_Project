@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Project\\Lampshade\\0_Framework\\0_Framework.csproj": {}
+    "D:\\Projects\\Lampshade\\0_Framework\\0_Framework.csproj": {}
   },
   "projects": {
-    "D:\\Project\\Lampshade\\0_Framework\\0_Framework.csproj": {
+    "D:\\Projects\\Lampshade\\0_Framework\\0_Framework.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Project\\Lampshade\\0_Framework\\0_Framework.csproj",
+        "projectUniqueName": "D:\\Projects\\Lampshade\\0_Framework\\0_Framework.csproj",
         "projectName": "0_Framework",
-        "projectPath": "D:\\Project\\Lampshade\\0_Framework\\0_Framework.csproj",
+        "projectPath": "D:\\Projects\\Lampshade\\0_Framework\\0_Framework.csproj",
         "packagesPath": "C:\\Users\\Sobhan\\.nuget\\packages\\",
-        "outputPath": "D:\\Project\\Lampshade\\0_Framework\\obj\\",
+        "outputPath": "D:\\Projects\\Lampshade\\0_Framework\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Sobhan\\AppData\\Roaming\\NuGet\\NuGet.Config",

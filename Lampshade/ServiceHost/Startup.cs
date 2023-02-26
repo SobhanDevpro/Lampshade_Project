@@ -23,6 +23,8 @@ using _0_Framework.Infrastructure;
 using _01_LampshadeQuery.Contracts;
 using _01_LampshadeQuery.Query;
 using _0_Framework.Application.ZarinPal;
+using ServiceHost.Controllers;
+using InventoryManagement.Presentation.Api;
 
 namespace ServiceHost
 {
@@ -85,14 +87,18 @@ namespace ServiceHost
             });
 
             services.AddRazorPages().
-                AddMvcOptions(options=>options.Filters.Add<SecurityPageFilter>())
+                AddMvcOptions(options => options.Filters.Add<SecurityPageFilter>())
                 .AddRazorPagesOptions(options =>
             {
                 options.Conventions.AuthorizeAreaFolder("Administration", "/", "AdminArea");
                 options.Conventions.AuthorizeAreaFolder("Administration", "/Shop", "Shop");
                 options.Conventions.AuthorizeAreaFolder("Administration", "/Discounts", "Discount");
                 options.Conventions.AuthorizeAreaFolder("Administration", "/Accounts", "Account");
-            });
+            })
+                .AddApplicationPart(typeof(ProductController).Assembly)
+                .AddApplicationPart(typeof(InventoryController).Assembly)
+                .AddNewtonsoftJson();
+       
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
