@@ -1,4 +1,5 @@
 ﻿using _0_Framework.Application;
+using _0_Framework.Application.Email;
 using Microsoft.Extensions.Configuration;
 using ShopManagement.Application.Contracts.Order;
 using ShopManagement.Domain.OrderAgg;
@@ -13,12 +14,14 @@ namespace ShopManagement.Application
         private readonly IAuthHelper _authHelper;
         private readonly IOrderRepository _orderRepository;
         private readonly IShopInventoryAcl _shopInventoryAcl;
+        private readonly IEmailService _emailService;
 
-        public OrderApplication(IOrderRepository orderRepository, IAuthHelper authHelper, IShopInventoryAcl shopInventoryAcl)
+        public OrderApplication(IOrderRepository orderRepository, IAuthHelper authHelper, IShopInventoryAcl shopInventoryAcl,IEmailService emailService)
         {
             _orderRepository = orderRepository;
             _authHelper = authHelper;
             _shopInventoryAcl = shopInventoryAcl;
+            _emailService = emailService;
         }
 
         public long PlaceOrder(Cart cart)
@@ -59,6 +62,7 @@ namespace ShopManagement.Application
             if (!_shopInventoryAcl.ReduceFromInventory(order.Items)) return "";
 
             _orderRepository.Save();
+            //_emailService.SendEmail("HelloTest", "BuyTest", "test@yahoo.com");
             return issueTrackingNo;
         }
 

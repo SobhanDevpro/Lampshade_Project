@@ -51,12 +51,12 @@ namespace _0_Framework.Application
                 : 0;
         }
 
-        //public string CurrentAccountMobile()
-        //{
-        //    return IsAuthenticated()
-        //        ? _contextAccessor.HttpContext.User.Claims.First(x => x.Type == "Mobile")?.Value
-        //        : "";
-        //}
+        public string CurrentAccountMobile()
+        {
+            return IsAuthenticated()
+                ? _contextAccessor.HttpContext.User.Claims.First(x => x.Type == "Mobile")?.Value
+                : "";
+        }
 
         public string CurrentAccountRole()
         {

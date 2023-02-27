@@ -25,6 +25,7 @@ using _01_LampshadeQuery.Query;
 using _0_Framework.Application.ZarinPal;
 using ServiceHost.Controllers;
 using InventoryManagement.Presentation.Api;
+using _0_Framework.Application.Email;
 
 namespace ServiceHost
 {
@@ -54,6 +55,7 @@ namespace ServiceHost
             services.AddTransient<IFileUploader, FileUploader>();
             services.AddTransient<IAuthHelper, AuthHelper>();
             services.AddTransient<IZarinPalFactory, ZarinPalFactory>();
+            services.AddTransient<IEmailService, EmailService>();
 
 
             services.Configure<CookiePolicyOptions>(options =>

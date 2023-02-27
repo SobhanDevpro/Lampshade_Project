@@ -226,3 +226,6 @@ D:\Projects\Lampshade\BlogManagement.Presentations.Api\bin\Debug\net5.0\ShopMana
 D:\Projects\Lampshade\BlogManagement.Presentations.Api\bin\Debug\net5.0\ShopManagement.Infrastructure.InventoryAcl.pdb
 D:\Projects\Lampshade\BlogManagement.Presentations.Api\obj\Debug\net5.0\staticwebassets\BlogManagement.Presentations.Api.StaticWebAssets.xml
 D:\Projects\Lampshade\BlogManagement.Presentations.Api\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Projects\Lampshade\BlogManagement.Presentations.Api\bin\Debug\net5.0\MailKit.dll
+D:\Projects\Lampshade\BlogManagement.Presentations.Api\bin\Debug\net5.0\MimeKit.dll
+D:\Projects\Lampshade\BlogManagement.Presentations.Api\bin\Debug\net5.0\crypto.dll

@@ -576,3 +576,6 @@ D:\Projects\Lampshade\ServiceHost\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
 D:\Projects\Lampshade\ServiceHost\bin\Debug\net5.0\InventoryManagement.Presentation.Api.dll
 D:\Projects\Lampshade\ServiceHost\bin\Debug\net5.0\InventoryManagement.Presentation.Api.pdb
 D:\Projects\Lampshade\ServiceHost\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Projects\Lampshade\ServiceHost\bin\Debug\net5.0\MailKit.dll
+D:\Projects\Lampshade\ServiceHost\bin\Debug\net5.0\MimeKit.dll
+D:\Projects\Lampshade\ServiceHost\bin\Debug\net5.0\crypto.dll
